@@ -1,0 +1,961 @@
+,Country,Longitude,Latitude,Code,Region,Major_Religion,Year,Consumption,Income_Per_Capita
+0,Chad,18.665,15.361,TCD,Africa,Muslims,2000,4.340000153,139.9052665
+1,Chad,18.665,15.361,TCD,Africa,Muslims,2005,4.619999886,346.551275
+2,Chad,18.665,15.361,TCD,Africa,Muslims,2010,6.579999924,651.5991203
+3,Chad,18.665,15.361,TCD,Africa,Muslims,2015,1.450000048,594.3602322
+4,Chad,18.665,15.361,TCD,Africa,Muslims,2018,1.370000005,514.1581836
+5,Anguilla,-63.032,18.237,,South/Latin America,No record,,,
+6,Paraguay,-58.391,-23.236,PRY,South/Latin America,Christians,2000,6.380000114,1240.418831
+7,Paraguay,-58.391,-23.236,PRY,South/Latin America,Christians,2005,6.659999847,1423.568812
+8,Paraguay,-58.391,-23.236,PRY,South/Latin America,Christians,2010,7.579999924,3669.964406
+9,Paraguay,-58.391,-23.236,PRY,South/Latin America,Christians,2015,7.260000229,4758.739531
+10,Paraguay,-58.391,-23.236,PRY,South/Latin America,Christians,2018,7.579999924,5168.14885
+11,Russia,96.689,61.988,RUS,Europe,Christians,2000,15.72999954,1277.653442
+12,Russia,96.689,61.988,RUS,Europe,Christians,2005,17.36000061,4067.0625
+13,Russia,96.689,61.988,RUS,Europe,Christians,2010,15.86999989,8449.454102
+14,Russia,96.689,61.988,RUS,Europe,Christians,2015,12.47000027,7424.559082
+15,Russia,96.689,61.988,RUS,Europe,Christians,2018,11.18999958,8697.098633
+16,Heard Island and McDonald Islands,73.507,-53.111,,Asia & Pacific,No record,,,
+17,The former Yugoslav Republic of Macedonia,21.698,41.6,MKD,Europe,No record,2000,7.309999943,1493.325437
+18,The former Yugoslav Republic of Macedonia,21.698,41.6,MKD,Europe,No record,2005,7.03000021,2392.413795
+19,The former Yugoslav Republic of Macedonia,21.698,41.6,MKD,Europe,No record,2010,5.929999828,3525.053966
+20,The former Yugoslav Republic of Macedonia,21.698,41.6,MKD,Europe,No record,2015,5.929999828,3838.22829
+21,The former Yugoslav Republic of Macedonia,21.698,41.6,MKD,Europe,No record,2018,6.159999847,4965.762249
+22,British Indian Ocean Territory,72.416,-7.335,,Asia & Pacific,No record,,,
+23,Yemen,48.355,15.807,YEM,Middle east,Muslims,2000,0.790000021,328.4494618
+24,Yemen,48.355,15.807,YEM,Middle east,Muslims,2005,0.340000004,484.00053
+25,Yemen,48.355,15.807,YEM,Middle east,Muslims,2010,0.180000007,992.4484948
+26,Yemen,48.355,15.807,YEM,Middle east,Muslims,2015,0.055,1470.306248
+27,Yemen,48.355,15.807,YEM,Middle east,Muslims,2018,0.050999999,720.0332731
+28,Senegal,-14.881,15.013,SEN,Africa,Muslims,2000,0.959999979,536.7569287
+29,Senegal,-14.881,15.013,SEN,Africa,Muslims,2005,0.850000024,881.4149311
+30,Senegal,-14.881,15.013,SEN,Africa,Muslims,2010,0.600000024,1131.080474
+31,Senegal,-14.881,15.013,SEN,Africa,Muslims,2015,0.730000019,1068.014775
+32,Senegal,-14.881,15.013,SEN,Africa,Muslims,2018,0.75999999,1274.100365
+33,Sweden,15.27,62.011,SWE,Europe,Christians,2000,8.529999733,25022.23541
+34,Sweden,15.27,62.011,SWE,Europe,Christians,2005,8.640000343,37177.84187
+35,Sweden,15.27,62.011,SWE,Europe,Christians,2010,9.489999771,45158.27576
+36,Sweden,15.27,62.011,SWE,Europe,Christians,2015,9.130000114,43360.74445
+37,Sweden,15.27,62.011,SWE,Europe,Christians,2018,8.930000305,46249.64153
+38,Tokelau,-171.853,-9.193,,Asia & Pacific,No record,,,
+39,Kiribati,175.036,-1.508,KIR,Asia & Pacific,Christians,2000,1.960000038,1220.306854
+40,Kiribati,175.036,-1.508,KIR,Asia & Pacific,Christians,2005,2.160000086,1609.636153
+41,Kiribati,175.036,-1.508,KIR,Asia & Pacific,Christians,2010,1.649999976,2084.912076
+42,Kiribati,175.036,-1.508,KIR,Asia & Pacific,Christians,2015,0.519999981,3041.639997
+43,Kiribati,175.036,-1.508,KIR,Asia & Pacific,Christians,2018,0.460000008,3027.399389
+44,Guyana,-58.974,4.792,GUY,South/Latin America,Christians,2000,8.979999542,764.8134905
+45,Guyana,-58.974,4.792,GUY,South/Latin America,Christians,2005,7.980000019,877.8325176
+46,Guyana,-58.974,4.792,GUY,South/Latin America,Christians,2010,6.78000021,3918.978424
+47,Guyana,-58.974,4.792,GUY,South/Latin America,Christians,2015,7.349999905,5061.028129
+48,Guyana,-58.974,4.792,GUY,South/Latin America,Christians,2018,6.889999866,5580.180923
+49,Burma,96.041,21.718,MMR,Asia & Pacific,Buddhists,2000,0.379999995,7795.427102
+50,Burma,96.041,21.718,MMR,Asia & Pacific,Buddhists,2005,1.649999976,37609.85894
+51,Burma,96.041,21.718,MMR,Asia & Pacific,Buddhists,2010,2.900000095,127804.2353
+52,Burma,96.041,21.718,MMR,Asia & Pacific,Buddhists,2015,4.409999847,1040.798148
+53,Burma,96.041,21.718,MMR,Asia & Pacific,Buddhists,2018,5.119999886,1094.802485
+54,Eritrea,38.219,16.045,ERI,Africa,Christians,2000,1.570000052,262.6490078
+55,Eritrea,38.219,16.045,ERI,Africa,Christians,2005,2.079999924,338.1738048
+56,Eritrea,38.219,16.045,ERI,Africa,Christians,2010,1.379999995,447.5723694
+,Eritrea,38.219,16.045,ERI,Africa,Christians,2015,,
+,Eritrea,38.219,16.045,ERI,Africa,Christians,2018,,
+57,Jersey,-2.129,49.219,,Europe,No record,,,
+58,Philippines,122.466,11.118,PHL,Asia & Pacific,Christians,2000,6.059999943,1084.473581
+59,Philippines,122.466,11.118,PHL,Asia & Pacific,Christians,2005,5.670000076,1217.474393
+60,Philippines,122.466,11.118,PHL,Asia & Pacific,Christians,2010,6.980000019,2194.392436
+61,Philippines,122.466,11.118,PHL,Asia & Pacific,Christians,2015,6.699999809,3045.639366
+62,Philippines,122.466,11.118,PHL,Asia & Pacific,Christians,2018,6.860000134,3283.595149
+63,Djibouti,42.516,11.9,DJI,Arab States,Muslims,2000,1.620000005,760.4758792
+64,Djibouti,42.516,11.9,DJI,Arab States,Muslims,2005,1.279999971,884.0111944
+65,Djibouti,42.516,11.9,DJI,Arab States,Muslims,2010,0.670000017,1073.680602
+66,Djibouti,42.516,11.9,DJI,Arab States,Muslims,2015,0.49000001,2282.280705
+67,Djibouti,42.516,11.9,DJI,Arab States,Muslims,2018,0.430000007,2645.676452
+68,Norfolk Island,167.953,-29.037,,Asia & Pacific,No record,,,
+69,Tonga,-175.185,-21.202,TON,Asia & Pacific,Christians,2000,1.700000048,1940.548376
+70,Tonga,-175.185,-21.202,TON,Asia & Pacific,Christians,2005,2.319999933,2368.494074
+71,Tonga,-175.185,-21.202,TON,Asia & Pacific,Christians,2010,1.389999986,3336.186419
+72,Tonga,-175.185,-21.202,TON,Asia & Pacific,Christians,2015,0.680000007,3998.809288
+73,Tonga,-175.185,-21.202,TON,Asia & Pacific,Christians,2018,0.800000012,4618.261805
+74,Malaysia,102.195,4.201,MYS,Asia & Pacific,Muslims,2000,1.529999971,2499.757267
+75,Malaysia,102.195,4.201,MYS,Asia & Pacific,Muslims,2005,1.279999971,3760.906463
+76,Malaysia,102.195,4.201,MYS,Asia & Pacific,Muslims,2010,1.320000052,6388.252309
+77,Malaysia,102.195,4.201,MYS,Asia & Pacific,Muslims,2015,0.850000024,7079.391093
+78,Malaysia,102.195,4.201,MYS,Asia & Pacific,Muslims,2018,0.850000024,7796.236448
+79,Singapore,103.808,1.351,SGP,Asia & Pacific,Buddhists,2000,2.49000001,20303.44943
+80,Singapore,103.808,1.351,SGP,Asia & Pacific,Buddhists,2005,1.779999971,23676.89524
+81,Singapore,103.808,1.351,SGP,Asia & Pacific,Buddhists,2010,2.190000057,40400.00536
+82,Singapore,103.808,1.351,SGP,Asia & Pacific,Buddhists,2015,2.069999933,43432.6853
+83,Singapore,103.808,1.351,SGP,Asia & Pacific,Buddhists,2018,2.029999971,48344.68233
+84,Fiji,177.974,-17.819,FJI,Asia & Pacific,Christians,2000,3.24000001,1849.543348
+85,Fiji,177.974,-17.819,FJI,Asia & Pacific,Christians,2005,2.779999971,3319.109159
+86,Fiji,177.974,-17.819,FJI,Asia & Pacific,Christians,2010,3,3192.543521
+87,Fiji,177.974,-17.819,FJI,Asia & Pacific,Christians,2015,3.329999924,4328.645502
+88,Fiji,177.974,-17.819,FJI,Asia & Pacific,Christians,2018,3.319999933,5065.13939
+89,Turkey,35.179,39.061,TUR,Europe,Muslims,2000,2.410000086,3586.326646
+90,Turkey,35.179,39.061,TUR,Europe,Muslims,2005,2.119999886,6201.451204
+91,Turkey,35.179,39.061,TUR,Europe,Muslims,2010,2.319999933,8998.023864
+92,Turkey,35.179,39.061,TUR,Europe,Muslims,2015,2.119999886,9262.77139
+93,Turkey,35.179,39.061,TUR,Europe,Muslims,2018,2.049999952,7991.247034
+94,United States Virgin Islands,-64.785,17.741,,South/Latin America,No record,,,
+95,Malawi,33.808,-13.4,MWI,Africa,Christians,2000,2.420000076,122.6146319
+96,Malawi,33.808,-13.4,MWI,Africa,Christians,2005,2.869999886,238.5563067
+97,Malawi,33.808,-13.4,MWI,Africa,Christians,2010,3.210000038,373.9440311
+98,Malawi,33.808,-13.4,MWI,Africa,Christians,2015,3.619999886,299.8452402
+99,Malawi,33.808,-13.4,MWI,Africa,Christians,2018,3.630000114,466.4553664
+100,Western Sahara,-13.706,24.554,,Africa,No record,,,
+101,Iraq,43.772,33.048,IRQ,Middle east,Muslims,2000,0.449999988,1658.468024
+102,Iraq,43.772,33.048,IRQ,Middle east,Muslims,2005,0.439999998,1195.664007
+103,Iraq,43.772,33.048,IRQ,Middle east,Muslims,2010,0.49000001,3728.736661
+104,Iraq,43.772,33.048,IRQ,Middle east,Muslims,2015,0.370000005,3707.944523
+105,Iraq,43.772,33.048,IRQ,Middle east,Muslims,2018,0.389999986,4420.610672
+106,Germany,9.851,51.11,DEU,Europe,Christians,2000,14.15999985,19474.15926
+107,Germany,9.851,51.11,DEU,Europe,Christians,2005,13.27999973,28834.92987
+108,Germany,9.851,51.11,DEU,Europe,Christians,2010,12.64000034,34789.76283
+109,Germany,9.851,51.11,DEU,Europe,Christians,2015,13.06000042,34595.63281
+110,Germany,9.851,51.11,DEU,Europe,Christians,2018,12.90999985,40745.04719
+111,Northern Mariana Islands,145.623,15.005,,Asia & Pacific,No record,,,
+112,Comoros,43.337,-11.758,COM,Arab States,Muslims,2000,0.189999998,592.4131293
+113,Comoros,43.337,-11.758,COM,Arab States,Muslims,2005,0.439999998,980.502759
+114,Comoros,43.337,-11.758,COM,Arab States,Muslims,2010,0.25,1197.484109
+115,Comoros,43.337,-11.758,COM,Arab States,Muslims,2015,0.879999995,1118.16422
+116,Comoros,43.337,-11.758,COM,Arab States,Muslims,2018,0.689999998,1297.574737
+,Afghanistan,65.216,33.677,AFG,Asia & Pacific,Muslims,2000,,
+,Afghanistan,65.216,33.677,AFG,Asia & Pacific,Muslims,2005,,
+117,Afghanistan,65.216,33.677,AFG,Asia & Pacific,Muslims,2010,0.209999993,496.1365933
+118,Afghanistan,65.216,33.677,AFG,Asia & Pacific,Muslims,2015,0.209999993,516.9467434
+119,Afghanistan,65.216,33.677,AFG,Asia & Pacific,Muslims,2018,0.209999993,452.4920718
+120,Cambodia,104.564,12.714,KHM,Asia & Pacific,Buddhists,2000,1.870000005,269.9247181
+121,Cambodia,104.564,12.714,KHM,Asia & Pacific,Buddhists,2005,2.690000057,419.411671
+122,Cambodia,104.564,12.714,KHM,Asia & Pacific,Buddhists,2010,4.909999847,681.8655826
+123,Cambodia,104.564,12.714,KHM,Asia & Pacific,Buddhists,2015,6.369999886,984.4450594
+124,Cambodia,104.564,12.714,KHM,Asia & Pacific,Buddhists,2018,6.639999866,1257.24663
+125,Jordan,36.319,30.703,JOR,Middle east,Muslims,2000,0.620000005,1504.540268
+126,Jordan,36.319,30.703,JOR,Middle east,Muslims,2005,0.660000026,2043.13867
+127,Jordan,36.319,30.703,JOR,Middle east,Muslims,2010,0.639999986,3424.892871
+128,Jordan,36.319,30.703,JOR,Middle east,Muslims,2015,0.689999998,3828.81568
+129,Jordan,36.319,30.703,JOR,Middle east,Muslims,2018,0.689999998,4045.027346
+130,Maldives,72.92,3.548,MDV,Asia & Pacific,Muslims,2000,2.039999962,1914.486965
+131,Maldives,72.92,3.548,MDV,Asia & Pacific,Muslims,2005,1.519999981,3182.062803
+132,Maldives,72.92,3.548,MDV,Asia & Pacific,Muslims,2010,1.649999976,5542.339978
+133,Maldives,72.92,3.548,MDV,Asia & Pacific,Muslims,2015,2.069999933,7427.777558
+134,Maldives,72.92,3.548,MDV,Asia & Pacific,Muslims,2018,2.220000029,8318.72547
+135,Rwanda,29.917,-1.998,RWA,Africa,Christians,2000,13.72999954,220.8304637
+136,Rwanda,29.917,-1.998,RWA,Africa,Christians,2005,13,278.2736176
+137,Rwanda,29.917,-1.998,RWA,Africa,Christians,2010,10.27000046,497.4431581
+138,Rwanda,29.917,-1.998,RWA,Africa,Christians,2015,9.260000229,608.581215
+139,Rwanda,29.917,-1.998,RWA,Africa,Christians,2018,8.949999809,627.8669699
+140,Saint Helena,-5.71,-15.953,,Africa,No record,,,
+,Sudan,30.05,13.832,SDN,Arab States,Muslims,2000,,
+,Sudan,30.05,13.832,SDN,Arab States,Muslims,2005,,
+,Sudan,30.05,13.832,SDN,Arab States,Muslims,2010,,
+141,Sudan,30.05,13.832,SDN,Arab States,Muslims,2015,0.519999981,1183.457886
+142,Sudan,30.05,13.832,SDN,Arab States,Muslims,2018,0.50999999,616.4845581
+143,Palau,134.57,7.501,,Asia & Pacific,No record,,,
+144,France,2.55,46.565,FRA,Europe,Christians,2000,14.07999992,19224.29715
+145,France,2.55,46.565,FRA,Europe,Christians,2005,13.09000015,29661.58756
+146,France,2.55,46.565,FRA,Europe,Christians,2010,12.39999962,34308.55912
+147,France,2.55,46.565,FRA,Europe,Christians,2015,12.64000034,30879.84013
+148,France,2.55,46.565,FRA,Europe,Christians,2018,12.32999992,34902.12577
+149,Turks and Caicos Islands,-71.95,21.902,,South/Latin America,No record,,,
+,Greece,21.766,39.666,GRC,Europe,Christians,2000,,
+,Greece,21.766,39.666,GRC,Europe,Christians,2005,,
+150,Greece,21.766,39.666,GRC,Europe,Christians,2010,9.670000076,21598.11483
+151,Greece,21.766,39.666,GRC,Europe,Christians,2015,10.48999977,14989.53459
+152,Greece,21.766,39.666,GRC,Europe,Christians,2018,10.18000031,16528.64533
+153,Sri Lanka,80.704,7.612,LKA,Asia & Pacific,Buddhists,2000,2.220000029,799.3564249
+154,Sri Lanka,80.704,7.612,LKA,Asia & Pacific,Buddhists,2005,2.589999914,1160.399791
+155,Sri Lanka,80.704,7.612,LKA,Asia & Pacific,Buddhists,2010,3.920000076,2596.519608
+156,Sri Lanka,80.704,7.612,LKA,Asia & Pacific,Buddhists,2015,4.099999905,3476.39485
+157,Sri Lanka,80.704,7.612,LKA,Asia & Pacific,Buddhists,2018,4.099999905,3656.206737
+158,Montserrat,-62.187,16.736,,South/Latin America,No record,,,
+159,British Virgin Islands,-64.39,18.483,,,,,,
+160,Dominica,-61.356,15.475,DMA,South/Latin America,Christians,2000,8.380000114,3977.027997
+161,Dominica,-61.356,15.475,DMA,South/Latin America,Christians,2005,8.720000267,4352.507793
+162,Dominica,-61.356,15.475,DMA,South/Latin America,Christians,2010,9.649999619,5819.941589
+163,Dominica,-61.356,15.475,DMA,South/Latin America,Christians,2015,11.31999969,6139.796277
+164,Dominica,-61.356,15.475,DMA,South/Latin America,Christians,2018,11.18000031,6549.297741
+165,Taiwan,120.946,23.754,,Asia & Pacific,No record,,,
+166,Algeria,2.632,28.163,DZA,Arab States,Muslims,2000,0.579999983,1280.191203
+167,Algeria,2.632,28.163,DZA,Arab States,Muslims,2005,0.810000002,2066.985784
+168,Algeria,2.632,28.163,DZA,Arab States,Muslims,2010,0.649999976,3432.705669
+169,Algeria,2.632,28.163,DZA,Arab States,Muslims,2015,0.930000007,3304.972158
+170,Algeria,2.632,28.163,DZA,Arab States,Muslims,2018,0.949999988,3241.892929
+,Equatorial Guinea,10.488,1.607,GNQ,Africa,Christians,2000,,
+171,Equatorial Guinea,10.488,1.607,GNQ,Africa,Christians,2005,8.909999847,-487.9077071
+172,Equatorial Guinea,10.488,1.607,GNQ,Africa,Christians,2010,9.199999809,2567.716502
+173,Equatorial Guinea,10.488,1.607,GNQ,Africa,Christians,2015,9.079999924,5463.919731
+174,Equatorial Guinea,10.488,1.607,GNQ,Africa,Christians,2018,7.230000019,4181.162842
+175,Togo,1.081,8.799,TGO,Africa,Christians,2000,1.789999962,267.6464938
+176,Togo,1.081,8.799,TGO,Africa,Christians,2005,3.25999999,358.8966725
+177,Togo,1.081,8.799,TGO,Africa,Christians,2010,2.109999895,443.6537887
+178,Togo,1.081,8.799,TGO,Africa,Christians,2015,2.369999886,497.5992611
+179,Togo,1.081,8.799,TGO,Africa,Christians,2018,2.460000038,809.5985661
+180,Slovakia,19.491,48.707,SVK,Europe,Christians,2000,12.47000027,3824.655948
+181,Slovakia,19.491,48.707,SVK,Europe,Christians,2005,12.06000042,8917.12656
+182,Slovakia,19.491,48.707,SVK,Europe,Christians,2010,12,13397.19273
+183,Slovakia,19.491,48.707,SVK,Europe,Christians,2015,11.52999973,13140.23136
+184,Slovakia,19.491,48.707,SVK,Europe,Christians,2018,11.14000034,15794.67909
+185,Macau,113.545,22.2,,Asia & Pacific,No record,,,
+186,Reunion,55.538,-21.122,,Asia & Pacific,No record,,,
+187,South Georgia South Sandwich Islands,-36.891,-54.209,,South/Latin America,No record,,,
+188,Argentina,-65.167,-35.377,ARG,South/Latin America,Christians,2000,8.75,6446.836678
+189,Argentina,-65.167,-35.377,ARG,South/Latin America,Christians,2005,8.659999847,3782.17899
+190,Argentina,-65.167,-35.377,ARG,South/Latin America,Christians,2010,9.090000153,8617.634996
+191,Argentina,-65.167,-35.377,ARG,South/Latin America,Christians,2015,9.550000191,11708.25369
+192,Argentina,-65.167,-35.377,ARG,South/Latin America,Christians,2018,9.649999619,9812.448289
+193,Angola,17.544,-12.296,AGO,Africa,Christians,2000,2.75999999,208.2281595
+194,Angola,17.544,-12.296,AGO,Africa,Christians,2005,4.889999866,949.3864339
+195,Angola,17.544,-12.296,AGO,Africa,Christians,2010,8.159999847,1819.641657
+196,Angola,17.544,-12.296,AGO,Africa,Christians,2015,7.960000038,3226.896205
+197,Angola,17.544,-12.296,AGO,Africa,Christians,2018,6.940000057,2082.779735
+198,Belgium,4.664,50.643,BEL,Europe,Christians,2000,12.48999977,19773.19839
+199,Belgium,4.664,50.643,BEL,Europe,Christians,2005,13.13000011,30757.87578
+200,Belgium,4.664,50.643,BEL,Europe,Christians,2010,11.39999962,36271.56906
+201,Belgium,4.664,50.643,BEL,Europe,Christians,2015,11.81999969,33820.5935
+202,Belgium,4.664,50.643,BEL,Europe,Christians,2018,11.07999992,39065.18688
+203,San Marino,12.46,43.942,,Europe,No record,,,
+204,Ecuador,-78.497,-1.385,ECU,South/Latin America,Christians,2000,5.960000038,1001.488591
+205,Ecuador,-78.497,-1.385,ECU,South/Latin America,Christians,2005,5.809999943,2179.252919
+206,Ecuador,-78.497,-1.385,ECU,South/Latin America,Christians,2010,6.159999847,3641.302038
+207,Ecuador,-78.497,-1.385,ECU,South/Latin America,Christians,2015,4.980000019,4955.581728
+208,Ecuador,-78.497,-1.385,ECU,South/Latin America,Christians,2018,4.199999809,4830.734358
+209,Qatar,51.191,25.316,QAT,Middle east,Muslims,2000,1.149999976,14986.4887
+210,Qatar,51.191,25.316,QAT,Middle east,Muslims,2005,1.669999957,30378.66445
+211,Qatar,51.191,25.316,QAT,Middle east,Muslims,2010,1.690000057,42885.71692
+212,Qatar,51.191,25.316,QAT,Middle east,Muslims,2015,1.620000005,47784.08143
+213,Qatar,51.191,25.316,QAT,Middle east,Muslims,2018,1.590000033,49682.17072
+214,Lesotho,28.243,-29.581,LSO,Africa,Christians,2000,7.309999943,499.3100666
+215,Lesotho,28.243,-29.581,LSO,Africa,Christians,2005,5.369999886,1014.470609
+216,Lesotho,28.243,-29.581,LSO,Africa,Christians,2010,6.5,1235.232953
+217,Lesotho,28.243,-29.581,LSO,Africa,Christians,2015,4.800000191,1085.958259
+218,Lesotho,28.243,-29.581,LSO,Africa,Christians,2018,4.590000153,1157.315729
+219,Albania,20.068,41.143,ALB,Europe,Muslims,2000,6.570000172,1037.543537
+220,Albania,20.068,41.143,ALB,Europe,Muslims,2005,7.650000095,2431.689063
+221,Albania,20.068,41.143,ALB,Europe,Muslims,2010,7.690000057,3494.653832
+222,Albania,20.068,41.143,ALB,Europe,Muslims,2015,6.739999771,3267.258027
+223,Albania,20.068,41.143,ALB,Europe,Muslims,2018,7.170000076,4319.042582
+224,Madagascar,46.706,-19.374,MDG,Africa,Christians,2000,2.109999895,247.4819567
+225,Madagascar,46.706,-19.374,MDG,Africa,Christians,2005,1.529999971,262.9695755
+226,Madagascar,46.706,-19.374,MDG,Africa,Christians,2010,1.870000005,370.2786167
+227,Madagascar,46.706,-19.374,MDG,Africa,Christians,2015,1.879999995,361.1030417
+228,Madagascar,46.706,-19.374,MDG,Africa,Christians,2018,1.970000029,435.6051959
+229,Finland,26.272,64.504,FIN,Europe,Christians,2000,11.68999958,20014.64779
+230,Finland,26.272,64.504,FIN,Europe,Christians,2005,13.10999966,32366.92581
+231,Finland,26.272,64.504,FIN,Europe,Christians,2010,12.59000015,38203.72036
+232,Finland,26.272,64.504,FIN,Europe,Christians,2015,11.18000031,35148.99359
+233,Finland,26.272,64.504,FIN,Europe,Christians,2018,10.77999973,40902.72458
+234,New Caledonia,165.447,-21.359,,Asia & Pacific,No record,,,
+235,�land Islands,19.952,60.198,,Europe,No record,,,
+236,Ghana,-1.207,7.96,GHA,Africa,Christians,2000,5.300000191,191.4014581
+237,Ghana,-1.207,7.96,GHA,Africa,Christians,2005,3.769999981,383.0453739
+238,Ghana,-1.207,7.96,GHA,Africa,Christians,2010,4.260000229,1043.196234
+239,Ghana,-1.207,7.96,GHA,Africa,Christians,2015,3.119999886,1380.649924
+240,Ghana,-1.207,7.96,GHA,Africa,Christians,2018,2.75,1745.214886
+241,Nicaragua,-85.034,12.84,NIC,South/Central America,Christians,2000,5.050000191,879.6068893
+242,Nicaragua,-85.034,12.84,NIC,South/Central America,Christians,2005,5.300000191,1031.86575
+243,Nicaragua,-85.034,12.84,NIC,South/Central America,Christians,2010,4.789999962,1312.658631
+244,Nicaragua,-85.034,12.84,NIC,South/Central America,Christians,2015,5.03000021,1777.211013
+245,Nicaragua,-85.034,12.84,NIC,South/Central America,Christians,2018,5.179999828,1727.630739
+246,Brunei Darussalam,114.591,4.468,BRN,Asia & Pacific,Muslims,2000,0.230000004,12540.29523
+247,Brunei Darussalam,114.591,4.468,BRN,Asia & Pacific,Muslims,2005,0.209999993,17786.3231
+248,Brunei Darussalam,114.591,4.468,BRN,Asia & Pacific,Muslims,2010,0.50999999,26425.89171
+249,Brunei Darussalam,114.591,4.468,BRN,Asia & Pacific,Muslims,2015,0.460000008,26342.80839
+250,Brunei Darussalam,114.591,4.468,BRN,Asia & Pacific,Muslims,2018,0.479999989,23568.63111
+251,Guernsey,-2.576,49.459,,Europe,No record,,,
+252,Benin,2.469,10.541,BEN,Africa,Christians,2000,2.460000038,409.2662541
+253,Benin,2.469,10.541,BEN,Africa,Christians,2005,2.230000019,704.9414681
+254,Benin,2.469,10.541,BEN,Africa,Christians,2010,2.470000029,879.7452489
+255,Benin,2.469,10.541,BEN,Africa,Christians,2015,2.970000029,958.7780289
+256,Benin,2.469,10.541,BEN,Africa,Christians,2018,2.809999943,1095.338412
+257,Peru,-75.552,-9.326,PER,South/Latin America,Christians,2000,6.539999962,1701.817661
+258,Peru,-75.552,-9.326,PER,South/Latin America,Christians,2005,6.989999771,2271.932891
+259,Peru,-75.552,-9.326,PER,South/Latin America,Christians,2010,7.690000057,4168.435094
+260,Peru,-75.552,-9.326,PER,South/Latin America,Christians,2015,6.630000114,5372.367241
+261,Peru,-75.552,-9.326,PER,South/Latin America,Christians,2018,6.380000114,5711.29096
+262,Sierra Leone,-11.792,8.56,SLE,Africa,Muslims,2000,5.800000191,107.0329387
+263,Sierra Leone,-11.792,8.56,SLE,Africa,Muslims,2005,5.570000172,241.2485836
+264,Sierra Leone,-11.792,8.56,SLE,Africa,Muslims,2010,5.829999924,349.1469903
+265,Sierra Leone,-11.792,8.56,SLE,Africa,Muslims,2015,5.630000114,499.1697469
+266,Sierra Leone,-11.792,8.56,SLE,Africa,Muslims,2018,5.699999809,435.4163559
+267,Bahamas,-78.014,24.628,BHS,South/Latin America,Christians,2000,5.579999924,24838.53109
+268,Bahamas,-78.014,24.628,BHS,South/Latin America,Christians,2005,4.28000021,27717.57868
+269,Bahamas,-78.014,24.628,BHS,South/Latin America,Christians,2010,4.119999886,25765.20838
+270,Bahamas,-78.014,24.628,BHS,South/Latin America,Christians,2015,4.550000191,27525.38749
+271,Bahamas,-78.014,24.628,BHS,South/Latin America,Christians,2018,4.78000021,28783.69443
+272,China,106.514,33.42,CHN,Asia & Pacific,Unaffiliated,2000,3.809999943,800.7001176
+273,China,106.514,33.42,CHN,Asia & Pacific,Unaffiliated,2005,4.019999981,1435.124106
+274,China,106.514,33.42,CHN,Asia & Pacific,Unaffiliated,2010,7.070000172,3511.23753
+275,China,106.514,33.42,CHN,Asia & Pacific,Unaffiliated,2015,7.150000095,6039.743162
+276,China,106.514,33.42,CHN,Asia & Pacific,Unaffiliated,2018,7.050000191,7378.311329
+277,India,78.5,21,IND,Asia & Pacific,Hindus,2000,2.279999971,386.8156903
+278,India,78.5,21,IND,Asia & Pacific,Hindus,2005,2.329999924,621.2041087
+279,India,78.5,21,IND,Asia & Pacific,Hindus,2010,4.349999905,1171.532098
+280,India,78.5,21,IND,Asia & Pacific,Hindus,2015,5.539999962,1405.180047
+281,India,78.5,21,IND,Asia & Pacific,Hindus,2018,5.539999962,1742.515393
+282,United States,-98.606,39.622,USA,North America,Christians,2000,9.18999958,31226.6966
+283,United States,-98.606,39.622,USA,North America,Christians,2005,9.489999771,37662.859
+284,United States,-98.606,39.622,USA,North America,Christians,2010,9.359999657,41218.49727
+285,United States,-98.606,39.622,USA,North America,Christians,2015,9.819999695,49198.88225
+286,United States,-98.606,39.622,USA,North America,Christians,2018,9.869999886,53665.69775
+287,Belarus,28.047,53.54,BLR,Europe,Christians,2000,15.17000008,1091.225008
+288,Belarus,28.047,53.54,BLR,Europe,Christians,2005,15.30000019,2703.87312
+289,Belarus,28.047,53.54,BLR,Europe,Christians,2010,17.43000031,5069.678556
+290,Belarus,28.047,53.54,BLR,Europe,Christians,2015,12,4890.564244
+291,Belarus,28.047,53.54,BLR,Europe,Christians,2018,11.44999981,5205.119091
+292,American Samoa,-170.73,-14.318,,Asia & Pacific,No record,,,
+293,Kuwait,47.376,29.476,KWT,Middle east,Muslims,2000,0.037999999,18624.79665
+294,Kuwait,47.376,29.476,KWT,Middle east,Muslims,2005,0.018999999,32675.59277
+295,Kuwait,47.376,29.476,KWT,Middle east,Muslims,2010,0.032000002,35028.09601
+296,Kuwait,47.376,29.476,KWT,Middle east,Muslims,2015,0.003,27583.77594
+297,Kuwait,47.376,29.476,KWT,Middle east,Muslims,2018,0.003,31276.33049
+298,Malta,14.442,35.89,,Europe,Christians,,,
+,Timor-Leste,125.878,-8.822,TLS,Asia & Pacific,No record,2000,,
+,Timor-Leste,125.878,-8.822,TLS,Asia & Pacific,No record,2005,,
+,Timor-Leste,125.878,-8.822,TLS,Asia & Pacific,No record,2010,,
+299,Timor-Leste,125.878,-8.822,TLS,Asia & Pacific,No record,2015,2.00999999,1315.73008
+300,Timor-Leste,125.878,-8.822,TLS,Asia & Pacific,No record,2018,2.170000076,926.6744218
+,Sao Tome and Principe,6.629,0.201,STP,Africa,Christians,2000,,
+301,Sao Tome and Principe,6.629,0.201,STP,Africa,Christians,2005,8.720000267,730.2885592
+302,Sao Tome and Principe,6.629,0.201,STP,Africa,Christians,2010,8.340000153,994.0567272
+303,Sao Tome and Principe,6.629,0.201,STP,Africa,Christians,2015,7.190000057,874.9542467
+304,Sao Tome and Principe,6.629,0.201,STP,Africa,Christians,2018,5.880000114,1398.839986
+305,Marshall Islands,168.963,7.595,,Asia & Pacific,No record,,,
+,Somalia,48.316,9.774,SOM,Arab States,Muslims,2000,,
+,Somalia,48.316,9.774,SOM,Arab States,Muslims,2005,,
+,Somalia,48.316,9.774,SOM,Arab States,Muslims,2010,,
+306,Somalia,48.316,9.774,SOM,Arab States,Muslims,2015,0.013,198.8808747
+307,Somalia,48.316,9.774,SOM,Arab States,Muslims,2018,0.009,249.0634302
+308,Tuvalu,179.219,-8.514,,Asia & Pacific,No major religion,,,
+309,Chile,-69.433,-23.389,CHL,South/Latin America,Christians,2000,7.739999771,4084.77189
+310,Chile,-69.433,-23.389,CHL,South/Latin America,Christians,2005,8.930000305,5506.493256
+311,Chile,-69.433,-23.389,CHL,South/Latin America,Christians,2010,9.31000042,9459.323473
+312,Chile,-69.433,-23.389,CHL,South/Latin America,Christians,2015,9.260000229,11235.79498
+313,Chile,-69.433,-23.389,CHL,South/Latin America,Christians,2018,9.069999695,12152.16951
+314,Puerto Rico,-66.466,18.221,,South/Latin America,No record,,,
+315,Tajikistan,69.42,38.665,TJK,Asia & Pacific,Muslims,2005,2.50999999,316.2320575
+316,Tajikistan,69.42,38.665,TJK,Asia & Pacific,Muslims,2010,2.400000095,780.2165875
+317,Tajikistan,69.42,38.665,TJK,Asia & Pacific,Muslims,2015,3.109999895,1048.258822
+318,Tajikistan,69.42,38.665,TJK,Asia & Pacific,Muslims,2018,3.279999971,897.3890013
+319,Martinique,-61.021,14.653,,South/Latin America,No record,,,
+320,United Republic of Tanzania,34.823,-6.27,TZA,Africa,Christians,2000,8.630000114,341.0271606
+321,United Republic of Tanzania,34.823,-6.27,TZA,Africa,Christians,2005,8.710000038,424.9165649
+322,United Republic of Tanzania,34.823,-6.27,TZA,Africa,Christians,2010,9.739999771,593.5293579
+323,United Republic of Tanzania,34.823,-6.27,TZA,Africa,Christians,2015,11.05000019,781.697998
+324,United Republic of Tanzania,34.823,-6.27,TZA,Africa,Christians,2018,11.27000046,909.9547729
+325,Cayman Islands,-81.198,19.314,,South/Latin America,No record,,,
+326,Isle of Man,-4.527,54.229,,Europe,No record,,,
+327,Croatia,16.693,45.723,HRV,Europe,Christians,2000,12.44999981,3988.092121
+328,Croatia,16.693,45.723,HRV,Europe,Christians,2005,10.31000042,8763.046255
+329,Croatia,16.693,45.723,HRV,Europe,Christians,2010,10.07999992,11146.73815
+330,Croatia,16.693,45.723,HRV,Europe,Christians,2015,9.069999695,9972.395116
+331,Croatia,16.693,45.723,HRV,Europe,Christians,2018,9.229999542,12674.16581
+332,Burundi,29.887,-3.356,BDI,Africa,Christians,2000,9.819999695,95.83200538
+333,Burundi,29.887,-3.356,BDI,Africa,Christians,2005,8.43999958,83.92559421
+334,Burundi,29.887,-3.356,BDI,Africa,Christians,2010,7.659999847,144.6584826
+335,Burundi,29.887,-3.356,BDI,Africa,Christians,2015,7.03000021,219.1921799
+336,Burundi,29.887,-3.356,BDI,Africa,Christians,2018,7.190000057,175.027621
+337,Andorra,1.576,42.549,,Europe,Christians,,,
+338,Bolivia,-64.671,-16.715,BOL,South/Latin America,Christians,2000,3.440000057,862.4099726
+339,Bolivia,-64.671,-16.715,BOL,South/Latin America,Christians,2005,4.369999886,818.2142242
+340,Bolivia,-64.671,-16.715,BOL,South/Latin America,Christians,2010,5.559999943,1593.257248
+341,Bolivia,-64.671,-16.715,BOL,South/Latin America,Christians,2015,4.639999866,2577.800446
+342,Bolivia,-64.671,-16.715,BOL,South/Latin America,Christians,2018,4.429999828,2960.414476
+343,Nigeria,8.105,9.594,NGA,Africa,Christians,2000,12.5,409.8660516
+344,Nigeria,8.105,9.594,NGA,Africa,Christians,2005,12.51000023,952.7237725
+345,Nigeria,8.105,9.594,NGA,Africa,Christians,2010,11.72000027,1792.392801
+346,Nigeria,8.105,9.594,NGA,Africa,Christians,2015,10.81000042,2299.910873
+347,Nigeria,8.105,9.594,NGA,Africa,Christians,2018,10.84000015,1645.439787
+348,Wallis and Futuna Islands,-178.131,-14.289,,Asia & Pacific,No record,,,
+349,Gabon,11.797,-0.591,GAB,Africa,Christians,2000,10.59000015,1738.90532
+350,Gabon,11.797,-0.591,GAB,Africa,Christians,2005,9.359999657,3238.287009
+351,Gabon,11.797,-0.591,GAB,Africa,Christians,2010,9.890000343,4423.247664
+352,Gabon,11.797,-0.591,GAB,Africa,Christians,2015,9.569999695,4938.15751
+353,Gabon,11.797,-0.591,GAB,Africa,Christians,2018,8.739999771,4888.464215
+354,Italy,12.8,42.7,ITA,Europe,Christians,2000,10.36999989,17057.67549
+355,Italy,12.8,42.7,ITA,Europe,Christians,2005,9.409999847,27031.46366
+356,Italy,12.8,42.7,ITA,Europe,Christians,2010,7.340000153,29606.5532
+357,Italy,12.8,42.7,ITA,Europe,Christians,2015,7.590000153,24452.26031
+358,Italy,12.8,42.7,ITA,Europe,Christians,2018,7.840000153,28814.12259
+359,Suriname,-55.912,4.127,SUR,South/Latin America,Christians,2000,5.289999962,1508.247265
+360,Suriname,-55.912,4.127,SUR,South/Latin America,Christians,2005,5.409999847,2716.928849
+361,Suriname,-55.912,4.127,SUR,South/Latin America,Christians,2010,6.21999979,5665.947241
+362,Suriname,-55.912,4.127,SUR,South/Latin America,Christians,2015,5.809999943,7559.878098
+363,Suriname,-55.912,4.127,SUR,South/Latin America,Christians,2018,5.329999924,4852.540075
+364,Netherlands Antilles,-68.87,12.123,,South/Latin America,No record,,,
+365,Lithuania,23.897,55.336,LTU,Europe,Christians,2000,13.35999966,2715.502855
+366,Lithuania,23.897,55.336,LTU,Europe,Christians,2005,16.10000038,6741.854395
+367,Lithuania,23.897,55.336,LTU,Europe,Christians,2010,15.25,10176.66457
+368,Lithuania,23.897,55.336,LTU,Europe,Christians,2015,15.38000011,11838.57675
+369,Lithuania,23.897,55.336,LTU,Europe,Christians,2018,13.22000027,16191.07756
+370,Norway,8.74,61.152,NOR,Europe,Christians,2000,7.949999809,28078.5853
+371,Norway,8.74,61.152,NOR,Europe,Christians,2005,8.869999886,52322.0364
+372,Norway,8.74,61.152,NOR,Europe,Christians,2010,8.93999958,68313.10802
+373,Norway,8.74,61.152,NOR,Europe,Christians,2015,7.519999981,61018.30414
+374,Norway,8.74,61.152,NOR,Europe,Christians,2018,7.409999847,65889.59615
+375,Turkmenistan,59.384,39.122,TKM,Asia & Pacific,Muslims,2000,4.820000172,239.585769
+376,Turkmenistan,59.384,39.122,TKM,Asia & Pacific,Muslims,2005,4.880000114,714.2478566
+377,Turkmenistan,59.384,39.122,TKM,Asia & Pacific,Muslims,2010,4.820000172,2753.964795
+,Turkmenistan,59.384,39.122,TKM,Asia & Pacific,Muslims,2015,,
+378,Turkmenistan,59.384,39.122,TKM,Asia & Pacific,Muslims,2018,4.929999828,4944.536757
+379,Saint Pierre and Miquelon,-56.325,47.042,,North America,No record,,,
+380,Spain,-3.649,40.227,ESP,Europe,Christians,2000,12.43000031,12756.40246
+381,Spain,-3.649,40.227,ESP,Europe,Christians,2005,12.82999992,22571.10626
+382,Spain,-3.649,40.227,ESP,Europe,Christians,2010,10.02999973,25463.26777
+383,Spain,-3.649,40.227,ESP,Europe,Christians,2015,11.31999969,21573.98266
+384,Spain,-3.649,40.227,ESP,Europe,Christians,2018,12.72000027,25706.36189
+385,Cuba,-77.781,21.297,CUB,South/Latin America,Christians,2000,4.980000019,2365.54012
+386,Cuba,-77.781,21.297,CUB,South/Latin America,Christians,2005,5.360000134,3296.160949
+387,Cuba,-77.781,21.297,CUB,South/Latin America,Christians,2010,5.019999981,4890.505676
+388,Cuba,-77.781,21.297,CUB,South/Latin America,Christians,2015,5.670000076,6712.714961
+389,Cuba,-77.781,21.297,CUB,South/Latin America,Christians,2018,5.829999924,7631.759196
+390,Mauritania,-10.332,20.26,MRT,Arab States,Muslims,2000,0.200000003,634.9286009
+391,Mauritania,-10.332,20.26,MRT,Arab States,Muslims,2005,0.129999995,865.684059
+392,Mauritania,-10.332,20.26,MRT,Arab States,Muslims,2010,0.086000003,1312.460649
+393,Mauritania,-10.332,20.26,MRT,Arab States,Muslims,2015,0.033,1314.285827
+394,Mauritania,-10.332,20.26,MRT,Arab States,Muslims,2018,0.035999998,1509.772644
+395,Guadeloupe,-61.441,16.286,,South/Latin America,No record,,,
+396,French Southern and Antarctic Lands,69.117,-49.302,,Asia & Pacific,No record,,,
+397,"Micronesia, Federated States of",158.235,6.883,FSM,Asia & Pacific,No record,2000,3.859999895,2064.149714
+398,"Micronesia, Federated States of",158.235,6.883,FSM,Asia & Pacific,No record,2005,2.779999971,2272.577378
+399,"Micronesia, Federated States of",158.235,6.883,FSM,Asia & Pacific,No record,2010,2.849999905,2775.078705
+400,"Micronesia, Federated States of",158.235,6.883,FSM,Asia & Pacific,No record,2015,2.440000057,3250.18827
+401,"Micronesia, Federated States of",158.235,6.883,FSM,Asia & Pacific,No record,2018,2.480000019,3417.080966
+402,Central African Republic,20.483,6.571,CAF,Africa,Christians,2000,3.680000067,225.7156521
+403,Central African Republic,20.483,6.571,CAF,Africa,Christians,2005,3.619999886,303.834706
+404,Central African Republic,20.483,6.571,CAF,Africa,Christians,2010,3.980000019,444.062994
+405,Central African Republic,20.483,6.571,CAF,Africa,Christians,2015,2.430000067,310.2485973
+406,Central African Republic,20.483,6.571,CAF,Africa,Christians,2018,2.380000114,411.4542873
+407,Denmark,9.264,56.058,DNK,Europe,Christians,2000,12.67000008,24608.51117
+408,Denmark,9.264,56.058,DNK,Europe,Christians,2005,12.28999996,40317.87833
+409,Denmark,9.264,56.058,DNK,Europe,Christians,2010,11,47965.97066
+410,Denmark,9.264,56.058,DNK,Europe,Christians,2015,10.35999966,45781.78557
+411,Denmark,9.264,56.058,DNK,Europe,Christians,2018,10.26000023,52851.09386
+412,Holy See (Vatican City),12.451,41.904,,Europe,No record,,,
+413,Niger,9.398,17.426,NER,Africa,Muslims,2000,0.230000004,198.2957158
+414,Niger,9.398,17.426,NER,Africa,Muslims,2005,0.25,339.9764277
+415,Niger,9.398,17.426,NER,Africa,Muslims,2010,0.310000002,497.8733937
+416,Niger,9.398,17.426,NER,Africa,Muslims,2015,0.550000012,492.8090229
+417,Niger,9.398,17.426,NER,Africa,Muslims,2018,0.670000017,580.140714
+418,Bangladesh,89.941,24.218,BGD,Asia & Pacific,Muslims,2000,0.230000004,398.0170058
+419,Bangladesh,89.941,24.218,BGD,Asia & Pacific,Muslims,2005,0.159999996,481.1720575
+420,Bangladesh,89.941,24.218,BGD,Asia & Pacific,Muslims,2010,0.159999996,777.2296355
+421,Bangladesh,89.941,24.218,BGD,Asia & Pacific,Muslims,2015,0.021,1219.150945
+422,Bangladesh,89.941,24.218,BGD,Asia & Pacific,Muslims,2018,0.018999999,1629.107417
+423,Barbados,-59.559,13.153,BRB,South/Latin America,Christians,2000,7.110000134,9863.320455
+424,Barbados,-59.559,13.153,BRB,South/Latin America,Christians,2005,7.400000095,11841.34337
+425,Barbados,-59.559,13.153,BRB,South/Latin America,Christians,2010,7.949999809,13975.77721
+426,Barbados,-59.559,13.153,BRB,South/Latin America,Christians,2015,9.329999924,14075.07877
+427,Barbados,-59.559,13.153,BRB,South/Latin America,Christians,2018,9.68999958,15095.59029
+428,Ireland,-8.152,53.177,IRL,Europe,Christians,2000,15.13000011,19883.45342
+429,Ireland,-8.152,53.177,IRL,Europe,Christians,2005,14.19999981,37212.30775
+430,Ireland,-8.152,53.177,IRL,Europe,Christians,2010,12.06999969,33814.64007
+431,Ireland,-8.152,53.177,IRL,Europe,Christians,2015,12.47000027,34241.06175
+432,Ireland,-8.152,53.177,IRL,Europe,Christians,2018,12.88000011,42179.30375
+433,Congo,15.986,-0.055,COG,Africa,No record,2000,3.450000048,61.68023483
+434,Congo,15.986,-0.055,COG,Africa,No record,2005,3.75,346.4195265
+435,Congo,15.986,-0.055,COG,Africa,No record,2010,6.170000076,1154.492858
+436,Congo,15.986,-0.055,COG,Africa,No record,2015,7.900000095,1631.352612
+437,Congo,15.986,-0.055,COG,Africa,No record,2018,9.270000458,898.6792104
+438,Liechtenstein,9.555,47.153,,Europe,No record,,,
+439,Svalbard,18.374,78.83,,Europe,No record,,,
+440,Christmas Island,105.704,-10.444,,Asia & Pacific,No record,,,
+441,Cocos (Keeling) Islands,96.839,-12.173,,Asia & Pacific,No record,,,
+442,Swaziland,31.497,-26.562,,,,,,
+443,Thailand,100.844,15.7,THA,Asia & Pacific,Buddhists,2000,6.489999771,1582.141775
+444,Thailand,100.844,15.7,THA,Asia & Pacific,Buddhists,2005,6.809999943,2285.367006
+445,Thailand,100.844,15.7,THA,Asia & Pacific,Buddhists,2010,7.710000038,4025.595226
+446,Thailand,100.844,15.7,THA,Asia & Pacific,Buddhists,2015,8.359999657,4463.39441
+447,Thailand,100.844,15.7,THA,Asia & Pacific,Buddhists,2018,8.300000191,5587.046487
+448,Bhutan,90.429,27.415,BTN,Asia & Pacific,Buddhists,2000,2.769999981,636.8715462
+449,Bhutan,90.429,27.415,BTN,Asia & Pacific,Buddhists,2005,1.600000024,1087.794261
+450,Bhutan,90.429,27.415,BTN,Asia & Pacific,Buddhists,2010,0.920000017,1842.44539
+451,Bhutan,90.429,27.415,BTN,Asia & Pacific,Buddhists,2015,0.419999987,2232.495518
+452,Bhutan,90.429,27.415,BTN,Asia & Pacific,Buddhists,2018,0.430000007,2637.871887
+453,Democratic Republic of the Congo,23.654,-2.876,COD,Africa,No record,2000,0.949999988,313.1247236
+454,Democratic Republic of the Congo,23.654,-2.876,COD,Africa,No record,2005,0.860000014,144.8182994
+455,Democratic Republic of the Congo,23.654,-2.876,COD,Africa,No record,2010,1.75,226.1327248
+456,Democratic Republic of the Congo,23.654,-2.876,COD,Africa,No record,2015,2.049999952,334.4502134
+457,Democratic Republic of the Congo,23.654,-2.876,COD,Africa,No record,2018,2,430.9601793
+458,Monaco,7.412,43.75,,Europe,No record,,,
+459,Morocco,-5.758,32.706,MAR,Arab States,Muslims,2000,1.00999999,1168.415771
+460,Morocco,-5.758,32.706,MAR,Arab States,Muslims,2005,0.959999979,1797.16626
+461,Morocco,-5.758,32.706,MAR,Arab States,Muslims,2010,0.899999976,2470.474609
+462,Morocco,-5.758,32.706,MAR,Arab States,Muslims,2015,0.699999988,2513.510986
+463,Morocco,-5.758,32.706,MAR,Arab States,Muslims,2018,0.689999998,2825.407959
+464,Cape Verde,-23.634,15.071,CPV,Africa,Christians,2000,6.03000021,1072.217629
+465,Cape Verde,-23.634,15.071,CPV,Africa,Christians,2005,6.949999809,1749.331583
+466,Cape Verde,-23.634,15.071,CPV,Africa,Christians,2010,7.510000229,2772.793336
+467,Cape Verde,-23.634,15.071,CPV,Africa,Christians,2015,5.949999809,2557.457026
+468,Cape Verde,-23.634,15.071,CPV,Africa,Christians,2018,5.599999905,3084.058525
+469,Panama,-80.92,8.384,PAN,South/Latin America,Christians,2000,5.480000019,3550.764883
+470,Panama,-80.92,8.384,PAN,South/Latin America,Christians,2005,5.489999771,4227.946365
+471,Panama,-80.92,8.384,PAN,South/Latin America,Christians,2010,6.840000153,6978.357484
+472,Panama,-80.92,8.384,PAN,South/Latin America,Christians,2015,7.710000038,11956.68882
+473,Panama,-80.92,8.384,PAN,South/Latin America,Christians,2018,7.980000019,13189.30835
+474,Hong Kong,114.129,22.423,,Asia & Pacific,No record,,,
+475,Nauru,166.93,-0.522,,Asia & Pacific,No major religion,,,
+476,Ukraine,31.388,49.016,UKR,Europe,Christians,2000,12.46000004,491.4949341
+477,Ukraine,31.388,49.016,UKR,Europe,Christians,2005,12.01000023,1501.745972
+478,Ukraine,31.388,49.016,UKR,Europe,Christians,2010,13.56999969,2465.624023
+479,Ukraine,31.388,49.016,UKR,Europe,Christians,2015,10.15999985,1934.418945
+480,Ukraine,31.388,49.016,UKR,Europe,Christians,2018,8.319999695,2727.715576
+481,Venezuela,-66.166,7.125,VEN,South/Latin America,Christians,2000,9.149999619,3655.272767
+482,Venezuela,-66.166,7.125,VEN,South/Latin America,Christians,2005,9.420000076,4093.454086
+483,Venezuela,-66.166,7.125,VEN,South/Latin America,Christians,2010,8.670000076,11002.13214
+484,Iceland,-18.48,64.764,ISL,Europe,Christians,2015,8.739999771,42259.26878
+485,Iceland,-18.48,64.764,ISL,Europe,Christians,2018,9.119999886,58346.39843
+486,Israel,34.851,31.026,ISR,Middle east,Jews,2000,3.079999924,16902.52822
+487,Israel,34.851,31.026,ISR,Middle east,Jews,2005,2.700000048,17099.32036
+488,Israel,34.851,31.026,ISR,Middle east,Jews,2010,3.119999886,25945.74742
+489,Israel,34.851,31.026,ISR,Middle east,Jews,2015,3.859999895,30811.08817
+490,Israel,34.851,31.026,ISR,Middle east,Jews,2018,4.210000038,36396.18138
+491,Saint Barthelemy,-63.043,18.04,,South/Latin America,No record,,,
+492,Antarctica,21.304,-80.446,,Asia & Pacific,No record,,,
+493,Saint Kitts and Nevis,-62.769,17.34,,South/Latin America,Christians,,,
+494,"Virgin Islands, British",,,,South/Latin America,No record,,,
+495,French Polynesia,-149.462,-17.626,,Asia & Pacific,No record,,,
+496,Oman,57.407,21.656,OMN,Middle east,Muslims,2000,6.559999943,4479.771144
+497,Oman,57.407,21.656,OMN,Middle east,Muslims,2005,1.559999943,6821.293266
+498,Oman,57.407,21.656,OMN,Middle east,Muslims,2010,0.730000019,9745.399787
+499,Oman,57.407,21.656,OMN,Middle east,Muslims,2015,0.769999981,10465.53346
+500,Oman,57.407,21.656,OMN,Middle east,Muslims,2018,0.779999971,10765.14305
+501,Cyprus,33.219,35.043,CYP,Europe,Christians,2000,10.85999966,11346.88574
+502,Cyprus,33.219,35.043,CYP,Europe,Christians,2005,12.43000031,20743.62891
+503,Cyprus,33.219,35.043,CYP,Europe,Christians,2010,11.35000038,26813.07813
+504,Cyprus,33.219,35.043,CYP,Europe,Christians,2015,10.76000023,20102.30469
+505,Cyprus,33.219,35.043,CYP,Europe,Christians,2018,10.81000042,24779.67188
+506,Gibraltar,-5.345,36.138,,Europe,No record,,,
+507,Palestine,35.278,32.037,,Arab States,No record,,,
+508,Uruguay,-56.012,-32.8,URY,South/Latin America,Christians,2000,8.090000153,6114.947764
+509,Uruguay,-56.012,-32.8,URY,South/Latin America,Christians,2005,7.460000038,4524.656669
+510,Uruguay,-56.012,-32.8,URY,South/Latin America,Christians,2010,7.099999905,10186.7279
+511,Uruguay,-56.012,-32.8,URY,South/Latin America,Christians,2015,6.989999771,12672.87082
+512,Uruguay,-56.012,-32.8,URY,South/Latin America,Christians,2018,6.920000076,14745.06348
+513,Cote d'Ivoire,-5.556,7.632,CIV,Africa,No record,2000,7.25,539.4824323
+514,Cote d'Ivoire,-5.556,7.632,CIV,Africa,No record,2005,3.299999952,816.1480503
+515,Cote d'Ivoire,-5.556,7.632,CIV,Africa,No record,2010,2.529999971,1099.696176
+516,Cote d'Ivoire,-5.556,7.632,CIV,Africa,No record,2015,2.609999895,1865.139239
+517,Cote d'Ivoire,-5.556,7.632,CIV,Africa,No record,2018,2.710000038,2134.489513
+518,Mexico,-102.535,23.951,MEX,South/Latin America,Christians,2000,6.429999828,5917.097241
+519,Mexico,-102.535,23.951,MEX,South/Latin America,Christians,2005,6.480000019,6531.755108
+520,Mexico,-102.535,23.951,MEX,South/Latin America,Christians,2010,5.210000038,7381.69991
+521,Mexico,-102.535,23.951,MEX,South/Latin America,Christians,2015,4.920000076,7625.253049
+522,Mexico,-102.535,23.951,MEX,South/Latin America,Christians,2018,5,7527.491192
+523,Aruba,-69.977,12.517,,South/Latin America,No record,,,
+524,Falkland Islands (Malvinas),-58.694,-51.665,,South/Latin America,No record,,,
+525,Estonia,25.793,58.674,EST,Europe,Unaffiliated,2000,9.569999695,3405.906291
+526,Estonia,25.793,58.674,EST,Europe,Unaffiliated,2005,15.64999962,8606.595191
+527,Estonia,25.793,58.674,EST,Europe,Unaffiliated,2010,12.39000034,11355.82718
+528,Estonia,25.793,58.674,EST,Europe,Unaffiliated,2015,12.39000034,14200.92793
+529,Estonia,25.793,58.674,EST,Europe,Unaffiliated,2018,9.229999542,19085.05216
+530,Georgia,43.518,42.176,GEO,Europe,Christians,2000,4.409999847,653.4006388
+531,Georgia,43.518,42.176,GEO,Europe,Christians,2005,6.389999866,1442.676418
+532,Georgia,43.518,42.176,GEO,Europe,Christians,2010,9.670000076,2714.768419
+533,Georgia,43.518,42.176,GEO,Europe,Christians,2015,9.609999657,3333.98116
+534,Georgia,43.518,42.176,GEO,Europe,Christians,2018,8.25,3864.164942
+,Montenegro,19.254,42.792,MNE,Europe,Christians,2000,,
+,Montenegro,19.254,42.792,MNE,Europe,Christians,2005,,
+535,Montenegro,19.254,42.792,MNE,Europe,Christians,2010,15.06999969,5910.29143
+536,Montenegro,19.254,42.792,MNE,Europe,Christians,2015,10.92000008,6040.25659
+537,Montenegro,19.254,42.792,MNE,Europe,Christians,2018,11.47000027,8079.045107
+538,Zimbabwe,29.872,-19,ZWE,Africa,Christians,2000,2.460000038,469.3017252
+539,Zimbabwe,29.872,-19,ZWE,Africa,Christians,2005,2.769999981,349.9301175
+540,Zimbabwe,29.872,-19,ZWE,Africa,Christians,2010,3.930000067,792.2677191
+541,Zimbabwe,29.872,-19,ZWE,Africa,Christians,2015,4.920000076,1250.122877
+542,Zimbabwe,29.872,-19,ZWE,Africa,Christians,2018,4.670000076,1063.106854
+543,Indonesia,114.252,-0.976,IDN,Asia & Pacific,Muslims,2000,0.5,634.4739021
+544,Indonesia,114.252,-0.976,IDN,Asia & Pacific,Muslims,2005,0.479999989,886.4751938
+545,Indonesia,114.252,-0.976,IDN,Asia & Pacific,Muslims,2010,0.589999974,2338.792194
+546,Indonesia,114.252,-0.976,IDN,Asia & Pacific,Muslims,2015,0.600000024,2560.150405
+547,Indonesia,114.252,-0.976,IDN,Asia & Pacific,Muslims,2018,0.569999993,3079.531921
+,Libyan Arab Jamahiriya,18.023,27.044,LBY,Middle east,Muslims,2000,,
+548,Libyan Arab Jamahiriya,18.023,27.044,LBY,Middle east,Muslims,2005,0.082999997,5641.002205
+549,Libyan Arab Jamahiriya,18.023,27.044,LBY,Middle east,Muslims,2010,0.097999997,8719.410062
+550,Libyan Arab Jamahiriya,18.023,27.044,LBY,Middle east,Muslims,2015,0.028999999,4032.210946
+551,Libyan Arab Jamahiriya,18.023,27.044,LBY,Middle east,Muslims,2018,0.018999999,6690.059916
+552,Saint Vincent and the Grenadines,-61.194,13.248,VCT,South/Latin America,Christians,2000,5.010000229,3371.464091
+553,Saint Vincent and the Grenadines,-61.194,13.248,VCT,South/Latin America,Christians,2005,5.989999771,4501.137023
+554,Saint Vincent and the Grenadines,-61.194,13.248,VCT,South/Latin America,Christians,2010,7.03000021,5236.467763
+555,Saint Vincent and the Grenadines,-61.194,13.248,VCT,South/Latin America,Christians,2015,8.460000038,5615.980208
+556,Saint Vincent and the Grenadines,-61.194,13.248,VCT,South/Latin America,Christians,2018,9.06000042,6062.063334
+557,Guam,144.707,13.385,,Asia & Pacific,No record,,,
+558,Guatemala,-90.398,15.256,GTM,South/Latin America,Christians,2000,4.400000095,1490.971212
+559,Guatemala,-90.398,15.256,GTM,South/Latin America,Christians,2005,4.289999962,1791.742108
+560,Guatemala,-90.398,15.256,GTM,South/Latin America,Christians,2010,3.50999999,2396.265781
+561,Guatemala,-90.398,15.256,GTM,South/Latin America,Christians,2015,2.549999952,3416.10899
+562,Guatemala,-90.398,15.256,GTM,South/Latin America,Christians,2018,2.450000048,3811.720229
+563,Mongolia,102.876,46.056,MNG,Asia & Pacific,Buddhists,2000,3.109999895,414.8631631
+564,Mongolia,102.876,46.056,MNG,Asia & Pacific,Buddhists,2005,5.28000021,812.6094183
+565,Mongolia,102.876,46.056,MNG,Asia & Pacific,Buddhists,2010,9.649999619,1860.728806
+566,Mongolia,102.876,46.056,MNG,Asia & Pacific,Buddhists,2015,10.97000027,3032.917527
+567,Mongolia,102.876,46.056,MNG,Asia & Pacific,Buddhists,2018,8.18999958,2998.220309
+568,Azerbaijan,47.395,40.43,AZE,Asia & Pacific,Muslims,2000,3.450000048,391.620903
+569,Azerbaijan,47.395,40.43,AZE,Asia & Pacific,Muslims,2005,1.809999943,956.8807831
+570,Azerbaijan,47.395,40.43,AZE,Asia & Pacific,Muslims,2010,2.970000029,3869.97075
+571,Azerbaijan,47.395,40.43,AZE,Asia & Pacific,Muslims,2015,4.579999924,4460.408229
+572,Azerbaijan,47.395,40.43,AZE,Asia & Pacific,Muslims,2018,4.409999847,3373.317152
+573,Grenada,-61.678,12.118,,South/Latin America,Christians,,,
+574,Armenia,44.563,40.534,ARM,Europe,Christians,2000,4.230000019,541.7649288
+575,Armenia,44.563,40.534,ARM,Europe,Christians,2005,5.789999962,1482.593613
+576,Armenia,44.563,40.534,ARM,Europe,Christians,2010,5.690000057,2919.041856
+577,Armenia,44.563,40.534,ARM,Europe,Christians,2015,5.840000153,3235.962768
+578,Armenia,44.563,40.534,ARM,Europe,Christians,2018,5.550000191,3709.67507
+579,Liberia,-9.657,6.682,LBR,Africa,Christians,2000,6.380000114,178.0619404
+580,Liberia,-9.657,6.682,LBR,Africa,Christians,2005,6.050000191,152.045577
+581,Liberia,-9.657,6.682,LBR,Africa,Christians,2010,5.369999886,279.850962
+582,Liberia,-9.657,6.682,LBR,Africa,Christians,2015,5.699999809,389.9621419
+583,Liberia,-9.657,6.682,LBR,Africa,Christians,2018,6.119999886,398.2173806
+584,Tunisia,9.596,35.383,TUN,Arab States,Muslims,2000,1.360000014,1706.778713
+585,Tunisia,9.596,35.383,TUN,Arab States,Muslims,2005,1.460000038,2444.893912
+586,Tunisia,9.596,35.383,TUN,Arab States,Muslims,2010,1.399999976,3316.331688
+587,Tunisia,9.596,35.383,TUN,Arab States,Muslims,2015,1.99000001,3573.360921
+588,Tunisia,9.596,35.383,TUN,Arab States,Muslims,2018,2.119999886,3456.056932
+589,Honduras,-86.863,14.819,HND,South/Latin America,Christians,2000,3.5,976.3465262
+590,Honduras,-86.863,14.819,HND,South/Latin America,Christians,2005,3.880000114,1149.218486
+591,Honduras,-86.863,14.819,HND,South/Latin America,Christians,2010,3.589999914,1650.742949
+592,Honduras,-86.863,14.819,HND,South/Latin America,Christians,2015,3.49000001,2009.238767
+593,Honduras,-86.863,14.819,HND,South/Latin America,Christians,2018,3.75999999,2166.357254
+594,Trinidad and Tobago,-61.253,10.468,TTO,South/Latin America,Christians,2000,5.269999981,4497.462434
+595,Trinidad and Tobago,-61.253,10.468,TTO,South/Latin America,Christians,2005,6.170000076,8677.227946
+596,Trinidad and Tobago,-61.253,10.468,TTO,South/Latin America,Christians,2010,6.210000038,11572.54033
+597,Trinidad and Tobago,-61.253,10.468,TTO,South/Latin America,Christians,2015,6.880000114,15076.63836
+598,Trinidad and Tobago,-61.253,10.468,TTO,South/Latin America,Christians,2018,6.71999979,13188.55898
+599,Saudi Arabia,44.585,24.023,SAU,Middle east,Muslims,2000,0.180000007,7220.342395
+600,Saudi Arabia,44.585,24.023,SAU,Middle east,Muslims,2005,0.170000002,10408.89228
+601,Saudi Arabia,44.585,24.023,SAU,Middle east,Muslims,2010,0.170000002,15673.85087
+602,Saudi Arabia,44.585,24.023,SAU,Middle east,Muslims,2015,0.200000003,16895.94156
+603,Saudi Arabia,44.585,24.023,SAU,Middle east,Muslims,2018,0.189999998,18891.62955
+604,Iran (Islamic Republic of),54.301,32.565,IRN,Middle east,Muslims,2000,0.209999993,1229.28717
+605,Iran (Islamic Republic of),54.301,32.565,IRN,Middle east,Muslims,2005,0.579999983,2538.618792
+606,Iran (Islamic Republic of),54.301,32.565,IRN,Middle east,Muslims,2010,1.00999999,5478.392081
+607,Iran (Islamic Republic of),54.301,32.565,IRN,Middle east,Muslims,2015,1.00999999,3904.846198
+608,Iran (Islamic Republic of),54.301,32.565,IRN,Middle east,Muslims,2018,1.029999971,2563.563289
+609,Uganda,32.386,1.28,UGA,Africa,Christians,2000,13.60999966,208.4975412
+610,Uganda,32.386,1.28,UGA,Africa,Christians,2005,12.92000008,256.3881206
+611,Uganda,32.386,1.28,UGA,Africa,Christians,2010,13.5,650.360594
+612,Uganda,32.386,1.28,UGA,Africa,Christians,2015,15.14000034,643.5503553
+613,Uganda,32.386,1.28,UGA,Africa,Christians,2018,15.09000015,630.9527443
+614,French Guiana,-53.241,3.924,,South/Latin America,No record,,,
+615,Mayotte,45.155,-12.777,,Africa,No record,,,
+616,Namibia,17.218,-22.133,NAM,Africa,Christians,2000,3.25999999,1948.642108
+617,Namibia,17.218,-22.133,NAM,Africa,Christians,2005,2.700000048,3190.914175
+618,Namibia,17.218,-22.133,NAM,Africa,Christians,2010,1.99000001,4430.176929
+619,Namibia,17.218,-22.133,NAM,Africa,Christians,2015,5.230000019,4273.616885
+620,Namibia,17.218,-22.133,NAM,Africa,Christians,2018,5.429999828,4725.728056
+621,Switzerland,7.908,46.861,CHE,Europe,Christians,2000,12.48999977,33239.37781
+622,Switzerland,7.908,46.861,CHE,Europe,Christians,2005,11.64000034,48473.09743
+623,Switzerland,7.908,46.861,CHE,Europe,Christians,2010,11.40999985,63796.26907
+624,Switzerland,7.908,46.861,CHE,Europe,Christians,2015,11.57999992,67178.62802
+625,Switzerland,7.908,46.861,CHE,Europe,Christians,2018,11.52999973,63798.33337
+626,Zambia,26.32,-14.614,ZMB,Africa,Christians,2000,4.050000191,248.4652852
+627,Zambia,26.32,-14.614,ZMB,Africa,Christians,2005,3.900000095,482.1088365
+628,Zambia,26.32,-14.614,ZMB,Africa,Christians,2010,5.429999828,1015.7294
+629,Zambia,26.32,-14.614,ZMB,Africa,Christians,2015,6.889999866,1079.38791
+630,Zambia,26.32,-14.614,ZMB,Africa,Christians,2018,6.539999962,1177.98161
+631,Pitcairn Islands,-128.316,-24.366,,Asia & Pacific,No record,,,
+632,Ethiopia,39.616,8.626,ETH,Africa,Christians,2000,1.75999999,93.31850244
+633,Ethiopia,39.616,8.626,ETH,Africa,Christians,2005,2.049999952,111.0728207
+634,Ethiopia,39.616,8.626,ETH,Africa,Christians,2010,2.5,253.765514
+635,Ethiopia,39.616,8.626,ETH,Africa,Christians,2015,2.190000057,491.0971144
+636,Ethiopia,39.616,8.626,ETH,Africa,Christians,2018,2.359999895,649.8547349
+637,Eswatini,,,SWZ,Africa,Christians,2000,7.460000038,1515.766357
+638,Eswatini,,,SWZ,Africa,Christians,2005,6.710000038,2846.95437
+639,Eswatini,,,SWZ,Africa,Christians,2010,6.820000172,3374.212676
+640,Eswatini,,,SWZ,Africa,Christians,2015,9.840000153,2989.027552
+641,Eswatini,,,SWZ,Africa,Christians,2018,10.03999996,3235.135187
+642,Jamaica,-77.32,18.151,JAM,South/Latin America,Christians,2000,4.909999847,2982.63682
+643,Jamaica,-77.32,18.151,JAM,South/Latin America,Christians,2005,4.429999828,3526.642336
+644,Jamaica,-77.32,18.151,JAM,South/Latin America,Christians,2010,4.380000114,4141.664864
+645,Jamaica,-77.32,18.151,JAM,South/Latin America,Christians,2015,4.190000057,4365.235294
+646,Jamaica,-77.32,18.151,JAM,South/Latin America,Christians,2018,4.21999979,4753.219326
+647,Latvia,25.641,56.858,LVA,Europe,Christians,2000,8.760000229,2394.036029
+648,Latvia,25.641,56.858,LVA,Europe,Christians,2005,11.96000004,5851.351551
+649,Latvia,25.641,56.858,LVA,Europe,Christians,2010,11.63000011,8652.931628
+650,Latvia,25.641,56.858,LVA,Europe,Christians,2015,12.64000034,10452.44894
+651,Latvia,25.641,56.858,LVA,Europe,Christians,2018,12.77000046,13750.7044
+652,South Sudan,,,,Africa,No record,,,
+653,United Arab Emirates,54.163,23.549,ARE,Middle east,Muslims,2000,2.579999924,30318.43289
+654,United Arab Emirates,54.163,23.549,ARE,Middle east,Muslims,2005,3.640000105,33411.63527
+655,United Arab Emirates,54.163,23.549,ARE,Middle east,Muslims,2010,3.150000095,30538.01884
+656,United Arab Emirates,54.163,23.549,ARE,Middle east,Muslims,2015,3.789999962,35658.39452
+657,United Arab Emirates,54.163,23.549,ARE,Middle east,Muslims,2018,3.900000095,40079.05334
+658,Saint Lucia,-60.969,13.898,LCA,South/Latin America,No record,2000,11.80000019,5038.376388
+659,Saint Lucia,-60.969,13.898,LCA,South/Latin America,No record,2005,11.61999989,5638.646823
+660,Saint Lucia,-60.969,13.898,LCA,South/Latin America,No record,2010,9.68999958,6967.58036
+661,Saint Lucia,-60.969,13.898,LCA,South/Latin America,No record,2015,9.960000038,7307.501214
+662,Saint Lucia,-60.969,13.898,LCA,South/Latin America,No record,2018,10.60000038,8785.529716
+663,Saint Martin,-63.041,18.094,,South/Latin America,No record,,,
+664,Bouvet Island,3.412,-54.422,,South/Latin America,No record,,,
+665,Guinea,-10.942,10.439,GIN,Africa,Muslims,2000,0.670000017,307.375495
+666,Guinea,-10.942,10.439,GIN,Africa,Muslims,2005,0.769999981,233.3805547
+667,Guinea,-10.942,10.439,GIN,Africa,Muslims,2010,0.699999988,552.7773875
+668,Guinea,-10.942,10.439,GIN,Africa,Muslims,2015,1.070000052,619.4839511
+669,Guinea,-10.942,10.439,GIN,Africa,Muslims,2018,1.110000014,765.166471
+,Canada,-109.433,59.081,CAN,North America,Christians,2000,,
+,Canada,-109.433,59.081,CAN,North America,Christians,2005,,
+670,Canada,-109.433,59.081,CAN,North America,Christians,2010,10.10000038,38788.54008
+671,Canada,-109.433,59.081,CAN,North America,Christians,2015,8.880000114,35263.23402
+672,Canada,-109.433,59.081,CAN,North America,Christians,2018,8.93999958,37636.49908
+673,Seychelles,55.474,-4.647,SYC,Africa,Christians,2000,7.619999886,6279.966967
+674,Seychelles,55.474,-4.647,SYC,Africa,Christians,2005,6.130000114,9861.449709
+675,Seychelles,55.474,-4.647,SYC,Africa,Christians,2010,10.18999958,9021.94497
+676,Seychelles,55.474,-4.647,SYC,Africa,Christians,2015,18.35000038,11999.70028
+677,Seychelles,55.474,-4.647,SYC,Africa,Christians,2018,20.5,13579.71104
+678,Faroe Islands,-6.864,62.05,,Europe,No record,,,
+679,Kyrgyzstan,74.555,41.465,KGZ,Asia & Pacific,Muslims,2000,9.449999809,218.4386739
+680,Kyrgyzstan,74.555,41.465,KGZ,Asia & Pacific,Muslims,2005,11.18999958,403.0914655
+681,Kyrgyzstan,74.555,41.465,KGZ,Asia & Pacific,Muslims,2010,10.07999992,674.0211825
+682,Kyrgyzstan,74.555,41.465,KGZ,Asia & Pacific,Muslims,2015,7.590000153,848.9314912
+683,Kyrgyzstan,74.555,41.465,KGZ,Asia & Pacific,Muslims,2018,6.260000229,1070.411843
+,Samoa,-172.414,-13.652,WSM,Asia & Pacific,Christians,2000,,
+684,Samoa,-172.414,-13.652,WSM,Asia & Pacific,Christians,2005,4.199999809,2092.676467
+685,Samoa,-172.414,-13.652,WSM,Asia & Pacific,Christians,2010,2.970000029,3075.657187
+686,Samoa,-172.414,-13.652,WSM,Asia & Pacific,Christians,2015,2.589999914,3552.2712
+687,Samoa,-172.414,-13.652,WSM,Asia & Pacific,Christians,2018,2.660000086,3633.341491
+688,Uzbekistan,63.17,41.75,UZB,Asia & Pacific,Muslims,2000,5.679999828,427.5792685
+689,Uzbekistan,63.17,41.75,UZB,Asia & Pacific,Muslims,2005,4.150000095,411.9692743
+690,Uzbekistan,63.17,41.75,UZB,Asia & Pacific,Muslims,2010,3.00999999,1406.744531
+691,Uzbekistan,63.17,41.75,UZB,Asia & Pacific,Muslims,2015,2.589999914,2372.926844
+692,Uzbekistan,63.17,41.75,UZB,Asia & Pacific,Muslims,2018,2.589999914,1264.712754
+693,Czech Republic,15.338,49.743,CZE,Europe,No record,2000,15,4584.077153
+694,Czech Republic,15.338,49.743,CZE,Europe,No record,2005,14.76000023,10145.70645
+695,Czech Republic,15.338,49.743,CZE,Europe,No record,2010,14.06000042,14196.50367
+696,Czech Republic,15.338,49.743,CZE,Europe,No record,2015,14.25,12895.81255
+697,Czech Republic,15.338,49.743,CZE,Europe,No record,2018,14.44999981,17422.50747
+698,Mozambique,37.923,-14.422,MOZ,Africa,Christians,2000,2.329999924,253.9531982
+699,Mozambique,37.923,-14.422,MOZ,Africa,Christians,2005,1.299999952,350.2988959
+700,Mozambique,37.923,-14.422,MOZ,Africa,Christians,2010,1.629999995,388.5419105
+701,Mozambique,37.923,-14.422,MOZ,Africa,Christians,2015,2.190000057,465.2022607
+702,Mozambique,37.923,-14.422,MOZ,Africa,Christians,2018,2.299999952,390.9003418
+703,Cook Islands,-159.782,-21.219,,Asia & Pacific,No record,,,
+704,Belize,-88.602,17.219,BLZ,South/Latin America,Christians,2000,5.550000191,2651.732643
+705,Belize,-88.602,17.219,BLZ,South/Latin America,Christians,2005,7.159999847,2893.607425
+706,Belize,-88.602,17.219,BLZ,South/Latin America,Christians,2010,7.079999924,2941.094382
+707,Belize,-88.602,17.219,BLZ,South/Latin America,Christians,2015,6.739999771,3740.378914
+708,Belize,-88.602,17.219,BLZ,South/Latin America,Christians,2018,6.21999979,3769.536196
+709,Brazil,-53.089,-10.772,BRA,South/Latin America,Christians,2000,8.779999733,3211.847996
+710,Brazil,-53.089,-10.772,BRA,South/Latin America,Christians,2005,8.319999695,4042.398811
+711,Brazil,-53.089,-10.772,BRA,South/Latin America,Christians,2010,8.489999771,9508.790642
+712,Brazil,-53.089,-10.772,BRA,South/Latin America,Christians,2015,7.860000134,7644.087416
+713,Brazil,-53.089,-10.772,BRA,South/Latin America,Christians,2018,7.420000076,7762.473282
+714,Gambia,-15.386,13.453,GMB,Africa,Muslims,2000,4.139999866,471.5764039
+715,Gambia,-15.386,13.453,GMB,Africa,Muslims,2005,4.269999981,535.9045697
+716,Gambia,-15.386,13.453,GMB,Africa,Muslims,2010,3.809999943,661.9454952
+717,Gambia,-15.386,13.453,GMB,Africa,Muslims,2015,3.670000076,474.2408407
+718,Gambia,-15.386,13.453,GMB,Africa,Muslims,2018,3.549999952,564.8894869
+719,Kenya,37.858,0.53,KEN,Africa,Christians,2000,3.829999924,319.72913
+720,Kenya,37.858,0.53,KEN,Africa,Christians,2005,3.00999999,416.6564619
+721,Kenya,37.858,0.53,KEN,Africa,Christians,2010,3.289999962,781.5718631
+722,Kenya,37.858,0.53,KEN,Africa,Christians,2015,2.769999981,1090.263386
+723,Kenya,37.858,0.53,KEN,Africa,Christians,2018,2.779999971,1478.423827
+724,Lebanon,35.888,33.92,LBN,Middle east,Muslims,2000,2.960000038,3960.680488
+725,Lebanon,35.888,33.92,LBN,Middle east,Muslims,2005,2.309999943,3866.976848
+726,Lebanon,35.888,33.92,LBN,Middle east,Muslims,2010,1.940000057,6400.07882
+727,Lebanon,35.888,33.92,LBN,Middle east,Muslims,2015,1.649999976,6204.190898
+728,Lebanon,35.888,33.92,LBN,Middle east,Muslims,2018,1.710000038,6550.127941
+729,Lao People's Democratic Republic,102.471,19.905,LAO,Asia & Pacific,Buddhists,2000,4.659999847,247.75997
+730,Lao People's Democratic Republic,102.471,19.905,LAO,Asia & Pacific,Buddhists,2005,4.369999886,378.324575
+731,Lao People's Democratic Republic,102.471,19.905,LAO,Asia & Pacific,Buddhists,2010,7.099999905,787.1447847
+732,Lao People's Democratic Republic,102.471,19.905,LAO,Asia & Pacific,Buddhists,2015,10.05000019,1655.501427
+733,Lao People's Democratic Republic,102.471,19.905,LAO,Asia & Pacific,Buddhists,2018,10.72000027,1959.924084
+734,Antigua and Barbuda,-61.783,17.078,,South/Latin America,Christians,,,
+735,Slovenia,14.827,46.124,SVN,Europe,Christians,2000,12.60000038,8155.159194
+736,Slovenia,14.827,46.124,SVN,Europe,Christians,2005,12.30000019,14481.56787
+737,Slovenia,14.827,46.124,SVN,Europe,Christians,2010,11.53999996,18481.06716
+738,Slovenia,14.827,46.124,SVN,Europe,Christians,2015,12.73999977,15895.08469
+739,Slovenia,14.827,46.124,SVN,Europe,Christians,2018,11.89999962,20762.87409
+740,Dominican Republic,-70.729,19.015,DOM,South/Latin America,Christians,2000,7.190000057,2664.284668
+741,Dominican Republic,-70.729,19.015,DOM,South/Latin America,Christians,2005,6.150000095,3540.62574
+742,Dominican Republic,-70.729,19.015,DOM,South/Latin America,Christians,2010,6.110000134,5112.883114
+743,Dominican Republic,-70.729,19.015,DOM,South/Latin America,Christians,2015,6.610000134,6306.365451
+744,Dominican Republic,-70.729,19.015,DOM,South/Latin America,Christians,2018,6.679999828,7216.424126
+745,Viet Nam,105.314,21.491,VNM,Asia & Pacific,Folk_Religions,2000,2.210000038,339.0046386
+746,Viet Nam,105.314,21.491,VNM,Asia & Pacific,Folk_Religions,2005,2.630000114,531.7736421
+747,Viet Nam,105.314,21.491,VNM,Asia & Pacific,Folk_Religions,2010,4.900000095,1016.623667
+748,Viet Nam,105.314,21.491,VNM,Asia & Pacific,Folk_Religions,2015,7.860000134,1646.577522
+749,Viet Nam,105.314,21.491,VNM,Asia & Pacific,Folk_Religions,2018,8.659999847,2026.250006
+750,Botswana,23.815,-22.182,BWA,Africa,Christians,2000,9.050000191,2866.734861
+751,Botswana,23.815,-22.182,BWA,Africa,Christians,2005,9.609999657,3957.584917
+752,Botswana,23.815,-22.182,BWA,Africa,Christians,2010,8.619999886,4631.358367
+753,Botswana,23.815,-22.182,BWA,Africa,Christians,2015,6.860000134,5139.773548
+754,Botswana,23.815,-22.182,BWA,Africa,Christians,2018,6.590000153,5860.517899
+755,Japan,139.068,36.491,JPN,Asia & Pacific,Unaffiliated,2000,8.229999542,30029.24876
+756,Japan,139.068,36.491,JPN,Asia & Pacific,Unaffiliated,2005,7.989999771,29301.9652
+757,Japan,139.068,36.491,JPN,Asia & Pacific,Unaffiliated,2010,7.199999809,34465.52667
+758,Japan,139.068,36.491,JPN,Asia & Pacific,Unaffiliated,2015,7.869999886,27544.22256
+759,Japan,139.068,36.491,JPN,Asia & Pacific,Unaffiliated,2018,7.960000038,31069.85987
+760,Luxembourg,6.088,49.771,LUX,Europe,Christians,2000,14.31999969,37680.49507
+761,Luxembourg,6.088,49.771,LUX,Europe,Christians,2005,13.57999992,66020.57795
+762,Luxembourg,6.088,49.771,LUX,Europe,Christians,2010,12.97999954,63141.94807
+763,Luxembourg,6.088,49.771,LUX,Europe,Christians,2015,13.18000031,55705.36724
+764,Luxembourg,6.088,49.771,LUX,Europe,Christians,2018,12.93999958,69216.21844
+765,New Zealand,172.235,-42.634,NZL,Asia & Pacific,Christians,2000,10.42000008,10755.11315
+766,New Zealand,172.235,-42.634,NZL,Asia & Pacific,Christians,2005,10.92000008,21904.25506
+767,New Zealand,172.235,-42.634,NZL,Asia & Pacific,Christians,2010,11.31999969,26639.39136
+768,New Zealand,172.235,-42.634,NZL,Asia & Pacific,Christians,2015,10.43999958,31674.40448
+769,New Zealand,172.235,-42.634,NZL,Asia & Pacific,Christians,2018,10.63000011,35281.39412
+770,United States Minor Outlying Islands,-160.027,-0.385,,Asia & Pacific,No record,,,
+771,Bosnia and Herzegovina,17.786,44.169,BIH,Europe,Christians,2000,6.369999886,1487.800093
+772,Bosnia and Herzegovina,17.786,44.169,BIH,Europe,Christians,2005,7.199999809,2783.287105
+773,Bosnia and Herzegovina,17.786,44.169,BIH,Europe,Christians,2010,7.320000172,4050.759443
+774,Bosnia and Herzegovina,17.786,44.169,BIH,Europe,Christians,2015,6.920000076,3922.012316
+775,Bosnia and Herzegovina,17.786,44.169,BIH,Europe,Christians,2018,7.150000095,5054.259583
+776,Greenland,-41.391,74.719,,Europe,No record,,,
+777,Haiti,-72.278,19.142,HTI,South/Latin America,Christians,2000,3.970000029,793.9694241
+778,Haiti,-72.278,19.142,HTI,South/Latin America,Christians,2005,3.859999895,751.0367537
+779,Haiti,-72.278,19.142,HTI,South/Latin America,Christians,2010,2.99000001,1132.740958
+780,Haiti,-72.278,19.142,HTI,South/Latin America,Christians,2015,2.690000057,1329.526139
+781,Haiti,-72.278,19.142,HTI,South/Latin America,Christians,2018,2.730000019,1399.779182
+782,Poland,19.401,52.125,POL,Europe,Christians,2000,9.170000076,3834.42909
+783,Poland,19.401,52.125,POL,Europe,Christians,2005,10.60000038,6770.522393
+784,Poland,19.401,52.125,POL,Europe,Christians,2010,11.21000004,10601.21925
+785,Poland,19.401,52.125,POL,Europe,Christians,2015,11.63000011,10635.38194
+786,Poland,19.401,52.125,POL,Europe,Christians,2018,11.71000004,13029.71053
+787,Portugal,-8.058,40.309,PRT,Europe,Christians,2000,14.07999992,9523.90393
+788,Portugal,-8.058,40.309,PRT,Europe,Christians,2005,13.36999989,15528.40861
+789,Portugal,-8.058,40.309,PRT,Europe,Christians,2010,12.51000023,17894.46804
+790,Portugal,-8.058,40.309,PRT,Europe,Christians,2015,11.88000011,15417.92124
+791,Portugal,-8.058,40.309,PRT,Europe,Christians,2018,12.02999973,18806.2376
+792,Republic of Moldova,28.599,47.193,MDA,Europe,Christians,2000,13.89000034,328.1365272
+793,Republic of Moldova,28.599,47.193,MDA,Europe,Christians,2005,19.95000076,974.6855297
+794,Republic of Moldova,28.599,47.193,MDA,Europe,Christians,2010,15.53999996,2290.767003
+795,Republic of Moldova,28.599,47.193,MDA,Europe,Christians,2015,11.86999989,2440.616257
+796,Republic of Moldova,28.599,47.193,MDA,Europe,Christians,2018,11.43000031,3880.786378
+797,Australia,136.189,-24.973,AUS,Asia & Pacific,Christians,2000,11.72000027,17062.60116
+798,Australia,136.189,-24.973,AUS,Asia & Pacific,Christians,2005,12.07999992,26541.0791
+799,Australia,136.189,-24.973,AUS,Asia & Pacific,Christians,2010,12.39000034,40210.15126
+800,Australia,136.189,-24.973,AUS,Asia & Pacific,Christians,2015,10.82999992,44255.97167
+801,Australia,136.189,-24.973,AUS,Asia & Pacific,Christians,2018,10.51000023,43950.4348
+802,Cameroon,12.277,5.133,CMR,Africa,Christians,2000,6.690000057,528.3633872
+803,Cameroon,12.277,5.133,CMR,Africa,Christians,2005,7.619999886,881.3872663
+804,Cameroon,12.277,5.133,CMR,Africa,Christians,2010,8.430000305,1064.832049
+805,Cameroon,12.277,5.133,CMR,Africa,Christians,2015,6.170000076,1113.811538
+806,Cameroon,12.277,5.133,CMR,Africa,Christians,2018,5.650000095,1278.540066
+807,Papua New Guinea,143.459,-5.949,PNG,Asia & Pacific,Christians,2000,1.789999962,411.109534
+808,Papua New Guinea,143.459,-5.949,PNG,Asia & Pacific,Christians,2005,1.600000024,494.6956859
+809,Papua New Guinea,143.459,-5.949,PNG,Asia & Pacific,Christians,2010,1.669999957,1324.80461
+810,Papua New Guinea,143.459,-5.949,PNG,Asia & Pacific,Christians,2015,1.389999986,2195.424341
+811,Papua New Guinea,143.459,-5.949,PNG,Asia & Pacific,Christians,2018,1.389999986,2249.508617
+812,Guinea-Bissau,-14.651,12.125,GNB,Africa,Muslims,2000,4.150000095,245.7327656
+813,Guinea-Bissau,-14.651,12.125,GNB,Africa,Muslims,2005,5.309999943,346.4118234
+814,Guinea-Bissau,-14.651,12.125,GNB,Africa,Muslims,2010,4.46999979,437.2774781
+815,Guinea-Bissau,-14.651,12.125,GNB,Africa,Muslims,2015,5.050000191,466.2656782
+816,Guinea-Bissau,-14.651,12.125,GNB,Africa,Muslims,2018,5.380000114,663.1795056
+817,Romania,24.969,45.844,ROU,Europe,Christians,2000,17.45000076,1284.589282
+818,Romania,24.969,45.844,ROU,Europe,Christians,2005,15.84000015,3591.985529
+819,Romania,24.969,45.844,ROU,Europe,Christians,2010,13.97000027,6573.855289
+820,Romania,24.969,45.844,ROU,Europe,Christians,2015,11.64000034,7206.437589
+821,Romania,24.969,45.844,ROU,Europe,Christians,2018,11.73999977,9946.610784
+822,Bulgaria,25.231,42.761,BGR,Europe,Christians,2000,11.80000019,1373.288102
+823,Bulgaria,25.231,42.761,BGR,Europe,Christians,2005,11.42000008,3321.594595
+824,Bulgaria,25.231,42.761,BGR,Europe,Christians,2010,11.31999969,5619.558335
+825,Bulgaria,25.231,42.761,BGR,Europe,Christians,2015,12.34000015,5820.570129
+826,Bulgaria,25.231,42.761,BGR,Europe,Christians,2018,12.64999962,7755.119297
+827,Solomon Islands,160.109,-9.611,SLB,Asia & Pacific,Christians,2000,1.200000048,908.9697454
+828,Solomon Islands,160.109,-9.611,SLB,Asia & Pacific,Christians,2005,1.600000024,905.902732
+829,Solomon Islands,160.109,-9.611,SLB,Asia & Pacific,Christians,2010,1.600000024,1355.470474
+830,Solomon Islands,160.109,-9.611,SLB,Asia & Pacific,Christians,2015,1.549999952,1923.290551
+831,Solomon Islands,160.109,-9.611,SLB,Asia & Pacific,Christians,2018,1.830000043,2145.955617
+832,"France, Metropolitan",,,,Europe,No record,,,
+833,Austria,14.912,47.683,AUT,Europe,Christians,2000,13.11999989,20320.62146
+834,Austria,14.912,47.683,AUT,Europe,Christians,2005,12.78999996,31806.68923
+835,Austria,14.912,47.683,AUT,Europe,Christians,2010,12.19999981,38955.43011
+836,Austria,14.912,47.683,AUT,Europe,Christians,2015,12.06999969,35787.43168
+837,Austria,14.912,47.683,AUT,Europe,Christians,2018,11.96000004,41592.5713
+838,Nepal,83.939,28.253,NPL,Asia & Pacific,Hindus,2000,1.120000005,222.629713
+839,Nepal,83.939,28.253,NPL,Asia & Pacific,Hindus,2005,1.950000048,303.5988269
+840,Nepal,83.939,28.253,NPL,Asia & Pacific,Hindus,2010,1.940000057,568.2405647
+841,Nepal,83.939,28.253,NPL,Asia & Pacific,Hindus,2015,2.049999952,856.5601234
+842,Nepal,83.939,28.253,NPL,Asia & Pacific,Hindus,2018,2.049999952,1109.421964
+843,Costa Rica,-83.946,9.971,CRI,South/Latin America,Christians,2000,5.550000191,3391.910244
+844,Costa Rica,-83.946,9.971,CRI,South/Latin America,Christians,2005,5.420000076,4200.20609
+845,Costa Rica,-83.946,9.971,CRI,South/Latin America,Christians,2010,4.800000191,7484.645662
+846,Costa Rica,-83.946,9.971,CRI,South/Latin America,Christians,2015,4.760000229,10542.91581
+847,Costa Rica,-83.946,9.971,CRI,South/Latin America,Christians,2018,4.869999886,11139.24091
+848,Egypt,29.872,26.494,EGY,Middle east,Muslims,2000,0.25,1271.945583
+849,Egypt,29.872,26.494,EGY,Middle east,Muslims,2005,0.289999992,991.8757025
+850,Egypt,29.872,26.494,EGY,Middle east,Muslims,2010,0.360000014,2258.303416
+851,Egypt,29.872,26.494,EGY,Middle east,Muslims,2015,0.400000006,3221.460282
+852,Egypt,29.872,26.494,EGY,Middle east,Muslims,2018,0.360000014,2195.611577
+853,El Salvador,-88.866,13.736,SLV,South/Latin America,Christians,2000,3.859999895,1835.959327
+854,El Salvador,-88.866,13.736,SLV,South/Latin America,Christians,2005,3.799999952,2162.877033
+855,El Salvador,-88.866,13.736,SLV,South/Latin America,Christians,2010,3.309999943,2585.756476
+856,El Salvador,-88.866,13.736,SLV,South/Latin America,Christians,2015,3.589999914,3078.201982
+857,El Salvador,-88.866,13.736,SLV,South/Latin America,Christians,2018,3.890000105,3250.404159
+858,Kazakhstan,67.301,48.16,KAZ,Asia & Pacific,Muslims,2000,8.180000305,751.8329203
+859,Kazakhstan,67.301,48.16,KAZ,Asia & Pacific,Muslims,2005,9.329999924,2188.547998
+860,Kazakhstan,67.301,48.16,KAZ,Asia & Pacific,Muslims,2010,4.96999979,5756.07994
+861,Kazakhstan,67.301,48.16,KAZ,Asia & Pacific,Muslims,2015,4.659999847,8088.785796
+862,Kazakhstan,67.301,48.16,KAZ,Asia & Pacific,Muslims,2018,4.760000229,6571.297317
+,Serbia,20.806,44.032,SRB,Europe,Christians,2000,,
+,Serbia,20.806,44.032,SRB,Europe,Christians,2005,,
+863,Serbia,20.806,44.032,SRB,Europe,Christians,2010,11.68999958,4663.004654
+864,Serbia,20.806,44.032,SRB,Europe,Christians,2015,8.699999809,4586.080836
+865,Serbia,20.806,44.032,SRB,Europe,Christians,2018,8.75,5868.870696
+866,Burkina Faso,-1.74,12.278,BFA,Africa,Muslims,2000,8.399999619,239.3187221
+867,Burkina Faso,-1.74,12.278,BFA,Africa,Muslims,2005,9.18999958,420.2821724
+868,Burkina Faso,-1.74,12.278,BFA,Africa,Muslims,2010,8.579999924,556.0322126
+869,Burkina Faso,-1.74,12.278,BFA,Africa,Muslims,2015,11.82999992,563.2055806
+870,Burkina Faso,-1.74,12.278,BFA,Africa,Muslims,2018,12.02999973,700.2011901
+871,South Africa,23.121,-30.558,ZAF,Africa,Christians,2000,10.02000046,2819.800954
+872,South Africa,23.121,-30.558,ZAF,Africa,Christians,2005,9.579999924,5089.744603
+873,South Africa,23.121,-30.558,ZAF,Africa,Christians,2010,10.03999996,6646.235026
+874,South Africa,23.121,-30.558,ZAF,Africa,Christians,2015,9.609999657,5190.807868
+875,South Africa,23.121,-30.558,ZAF,Africa,Christians,2018,9.520000458,5742.957739
+876,Bermuda,-64.709,32.336,,South/Latin America,No record,,,
+877,"Korea, Democratic People's Republic of",126.451,39.778,,Asia & Pacific,Unaffiliated,,,
+878,Bahrain,50.562,26.019,BHR,Arab States,Muslims,2000,1.74000001,9334.797851
+879,Bahrain,50.562,26.019,BHR,Arab States,Muslims,2005,1.75999999,12416.25495
+880,Bahrain,50.562,26.019,BHR,Arab States,Muslims,2010,1.690000057,13748.48493
+881,Bahrain,50.562,26.019,BHR,Arab States,Muslims,2015,1.299999952,17283.19288
+882,Bahrain,50.562,26.019,BHR,Arab States,Muslims,2018,1.090000033,17987.30757
+883,Colombia,-73.076,3.9,COL,South/Latin America,Christians,2000,5.579999924,2008.328799
+884,Colombia,-73.076,3.9,COL,South/Latin America,Christians,2005,5.409999847,2729.336292
+885,Colombia,-73.076,3.9,COL,South/Latin America,Christians,2010,5.039999962,5032.870771
+886,Colombia,-73.076,3.9,COL,South/Latin America,Christians,2015,5.78000021,5170.381973
+887,Colombia,-73.076,3.9,COL,South/Latin America,Christians,2018,5.739999771,5519.415455
+888,Hungary,19.134,47.07,HUN,Europe,Christians,2000,14.27000046,3456.086595
+889,Hungary,19.134,47.07,HUN,Europe,Christians,2005,14.56000042,8728.009585
+890,Hungary,19.134,47.07,HUN,Europe,Christians,2010,12.09000015,10189.97656
+891,Hungary,19.134,47.07,HUN,Europe,Christians,2015,11.60000038,9968.47718
+892,Hungary,19.134,47.07,HUN,Europe,Christians,2018,11.35000038,13114.33284
+893,Pakistan,69.386,29.967,PAK,Asia & Pacific,Muslims,2000,0.085000001,504.413325
+894,Pakistan,69.386,29.967,PAK,Asia & Pacific,Muslims,2005,0.159999996,664.3626818
+895,Pakistan,69.386,29.967,PAK,Asia & Pacific,Muslims,2010,0.189999998,896.7553024
+896,Pakistan,69.386,29.967,PAK,Asia & Pacific,Muslims,2015,0.289999992,1256.600456
+897,Pakistan,69.386,29.967,PAK,Asia & Pacific,Muslims,2018,0.340000004,1368.337853
+898,Vanuatu,166.899,-15.376,VUT,Asia & Pacific,Christians,2000,1.169999957,1263.489111
+899,Vanuatu,166.899,-15.376,VUT,Asia & Pacific,Christians,2005,1.200000048,1591.632343
+900,Vanuatu,166.899,-15.376,VUT,Asia & Pacific,Christians,2010,1.700000048,2462.999966
+901,Vanuatu,166.899,-15.376,VUT,Asia & Pacific,Christians,2015,2.140000105,2499.926234
+902,Vanuatu,166.899,-15.376,VUT,Asia & Pacific,Christians,2018,2.25,2929.871017
+903,Niue,-169.869,-19.052,,Asia & Pacific,No record,,,
+904,Mauritius,57.583,-20.255,MUS,Africa,Hindus,2000,5.489999771,3450.242781
+905,Mauritius,57.583,-20.255,MUS,Africa,Hindus,2005,5,4725.40696
+906,Mauritius,57.583,-20.255,MUS,Africa,Hindus,2010,3.809999943,6661.068458
+907,Mauritius,57.583,-20.255,MUS,Africa,Hindus,2015,3.940000057,8664.625912
+908,Mauritius,57.583,-20.255,MUS,Africa,Hindus,2018,4.349999905,11111.96291
+909,Syrian Arab Republic,38.506,35.013,SYR,Asia & Pacific,Muslims,2000,1.149999976,4008.324494
+910,Syrian Arab Republic,38.506,35.013,SYR,Asia & Pacific,Muslims,2005,0.920000017,6072.595124
+911,Syrian Arab Republic,38.506,35.013,SYR,Asia & Pacific,Muslims,2010,0.879999995,10204.77854
+912,Syrian Arab Republic,38.506,35.013,SYR,Asia & Pacific,Muslims,2015,0.280000001,787.8911028
+913,Syrian Arab Republic,38.506,35.013,SYR,Asia & Pacific,Muslims,2018,0.239999995,1147.827019
+914,United Kingdom,-1.6,53,GBR,Europe,Christians,2000,13.72999954,24417.36483
+915,United Kingdom,-1.6,53,GBR,Europe,Christians,2005,13.89000034,36820.45686
+916,United Kingdom,-1.6,53,GBR,Europe,Christians,2010,12.06000042,33505.20617
+917,United Kingdom,-1.6,53,GBR,Europe,Christians,2015,11.21000004,37640.39187
+918,United Kingdom,-1.6,53,GBR,Europe,Christians,2018,11.44999981,36247.17922
+919,"Korea, Republic of",128.103,36.504,KOR,Asia & Pacific,Unaffiliated,2000,12.31000042,10062.09333
+920,"Korea, Republic of",128.103,36.504,KOR,Asia & Pacific,Unaffiliated,2005,10.57999992,15947.01672
+921,"Korea, Republic of",128.103,36.504,KOR,Asia & Pacific,Unaffiliated,2010,9.970000267,19045.84629
+922,"Korea, Republic of",128.103,36.504,KOR,Asia & Pacific,Unaffiliated,2015,10.03999996,23424.50733
+923,"Korea, Republic of",128.103,36.504,KOR,Asia & Pacific,Unaffiliated,2018,9.699999809,27236.56916
+924,Mali,-3.524,17.35,MLI,Africa,Muslims,2000,1.149999976,241.0827695
+925,Mali,-3.524,17.35,MLI,Africa,Muslims,2005,1.049999952,426.2061105
+926,Mali,-3.524,17.35,MLI,Africa,Muslims,2010,1.090000033,593.7132708
+927,Mali,-3.524,17.35,MLI,Africa,Muslims,2015,1.25,640.5267527
+928,Mali,-3.524,17.35,MLI,Africa,Muslims,2018,1.279999971,766.3375486
+929,Netherlands,5.389,52.077,NLD,Europe,Christians,2000,11.07999992,22555.00341
+930,Netherlands,5.389,52.077,NLD,Europe,Christians,2005,10.71000004,34540.72055
+931,Netherlands,5.389,52.077,NLD,Europe,Christians,2010,10.21000004,42027.29108
+932,Netherlands,5.389,52.077,NLD,Europe,Christians,2015,9.550000191,37497.21885
+933,Netherlands,5.389,52.077,NLD,Europe,Christians,2018,9.609999657,44714.29971
